@@ -1,15 +1,15 @@
 # 301 Redirect Old File
 
 # Pages
-Redirect 301 tools-for-startups-software-products/ http://iamnotaprogrammer.com/tools-for-startups-software-products.html
-Redirect 301 projects/windows-xp-on-the-intel-mac/ http://iamnotaprogrammer.com/windows-xp-on-the-intel-mac.html
-Redirect 301 free-wireframe-stencils-toolkit-for-keynote/ http://keynoteux.com
-Redirect 301 adventures/bike-across-the-us/ http://iamnotaprogrammer.com/bike-across-the-us.html
-Redirect 301 adventures/run-a-marathon/ http://iamnotaprogrammer.com/run-a-marathon.html
-Redirect 301 adventures/sail-around-the-world/ http://iamnotaprogrammer.com/sail-around-the-world.html
+Redirect 301 /tools-for-startups-software-products/ http://iamnotaprogrammer.com/tools-for-startups-software-products.html
+Redirect 301 /projects/windows-xp-on-the-intel-mac/ http://iamnotaprogrammer.com/windows-xp-on-the-intel-mac.html
+Redirect 301 /free-wireframe-stencils-toolkit-for-keynote/ http://keynoteux.com
+Redirect 301 /adventures/bike-across-the-us/ http://iamnotaprogrammer.com/bike-across-the-us.html
+Redirect 301 /adventures/run-a-marathon/ http://iamnotaprogrammer.com/run-a-marathon.html
+Redirect 301 /adventures/sail-around-the-world/ http://iamnotaprogrammer.com/sail-around-the-world.html
 
 # Blog Posts
-Redirect 301 2010/01/google-adwords-is-not-the-best-use-of-your-advertising-budget/ http://iamnotaprogrammer.com/google-adwords-is-not-the-best-use-of-your-advertising-budget.html
-Redirect 301 2010/08/what-does-a-product-manager-do/ http://iamnotaprogrammer.com/what-does-a-product-manager-do.html
-Redirect 301 2010/03/five-reasons-smart-startups-use-rails/ http://iamnotaprogrammer.com/five-reasons-smart-startups-use-rails.html
-Redirect 301 2010/03/links-should-always-be-blue-and-underlined/ http://iamnotaprogrammer.com/links-should-always-be-blue-and-underlined.html
+Redirect 301 /2010/01/google-adwords-is-not-the-best-use-of-your-advertising-budget/ http://iamnotaprogrammer.com/google-adwords-is-not-the-best-use-of-your-advertising-budget.html
+Redirect 301 /2010/08/what-does-a-product-manager-do/ http://iamnotaprogrammer.com/what-does-a-product-manager-do.html
+Redirect 301 /2010/03/five-reasons-smart-startups-use-rails/ http://iamnotaprogrammer.com/five-reasons-smart-startups-use-rails.html
+Redirect 301 /2010/03/links-should-always-be-blue-and-underlined/ http://iamnotaprogrammer.com/links-should-always-be-blue-and-underlined.html
