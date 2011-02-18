@@ -1,6 +1,6 @@
-//301 Redirect Old File
+# 301 Redirect Old File
 
-//Pages
+# Pages
 Redirect 301 tools-for-startups-software-products/ tools-for-startups-software-products.html
 Redirect 301 projects/windows-xp-on-the-intel-mac/ windows-xp-on-the-intel-mac.html
 Redirect 301 free-wireframe-stencils-toolkit-for-keynote/ http://keynoteux.com
@@ -8,7 +8,7 @@ Redirect 301 adventures/bike-across-the-us/ bike-across-the-us.html
 Redirect 301 adventures/run-a-marathon/ run-a-marathon.html
 Redirect 301 adventures/sail-around-the-world/ sail-around-the-world.html
 
-//Blog Posts
+# Blog Posts
 Redirect 301 2010/01/google-adwords-is-not-the-best-use-of-your-advertising-budget/ google-adwords-is-not-the-best-use-of-your-advertising-budget.html
 Redirect 301 2010/08/what-does-a-product-manager-do/ what-does-a-product-manager-do.html
 Redirect 301 2010/03/five-reasons-smart-startups-use-rails/ five-reasons-smart-startups-use-rails.html
