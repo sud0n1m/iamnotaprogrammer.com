@@ -1,5 +1,11 @@
 # 301 Redirect Old File
 
+# Root
+
+RewriteCond %{HTTP_HOST} ^www\.iamnotaprogrammer\.com [NC]
+RewriteRule ^(.*)$ http://iamnotaprogrammer.com/$1 [L,R=301]
+
+
 # Pages
 Redirect 301 /tools-for-startups-software-products/ http://iamnotaprogrammer.com/tools-for-startups-software-products.html
 Redirect 301 /projects/windows-xp-on-the-intel-mac/ http://iamnotaprogrammer.com/windows-xp-on-the-intel-mac.html
