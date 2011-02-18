@@ -1,3 +1,5 @@
+/* @override http://localhost:4000/css/screen.css */
+
 /*****************************************************************************/
 /*
 /* Common
@@ -17,9 +19,11 @@ html, body {
 
 body {
   background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
-  *font-size: small;
   text-align: center;
+  
+  font-size: 1em;
+  font-family: Times, 'Times New Roman', serif;
+  line-height: 1.5;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -28,6 +32,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   margin-bottom: 1em;
+  font-size: 1.3em;
 }
 
 p {
@@ -82,18 +87,21 @@ ul.posts {
   font-size: 110%;
   text-align: justify;
   width: 40em;
-  margin: 3em auto 2em auto;
   line-height: 1.5em;
+	margin: 0 auto 3em;
 }
 
 .title {
-  color: #a00;
-  font-weight: bold;
+  color: #0e00aa;
   margin-bottom: 2em;
+	border-bottom: 2px solid #000;
+	font: 0.9em sans-serif;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
   .site .title a {
-    color: #a00;
+    color: #0e00aa;
     text-decoration: none;
   }
 
@@ -118,7 +126,7 @@ ul.posts {
   .site .footer {
     font-size: 80%;
     color: #666;
-    border-top: 4px solid #eee;
+    border-top: 2px solid #000;
     margin-top: 2em;
     overflow: hidden;
   }
@@ -129,7 +137,7 @@ ul.posts {
     }
 
       .site .footer .contact a {
-        color: #8085C1;
+        color: #0e00aa;
       }
 
     .site .footer .rss {
