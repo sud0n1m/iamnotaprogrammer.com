@@ -14,45 +14,71 @@ categories:
 - software-development
 - startup-teams
 ---
-It's 2010. You want to build an <a href="http://en.wikipedia.org/wiki/Web_application">web application</a>. PHP is dead. Java is dead.
+<p>It's 2010. You want to build an <a href="http://en.wikipedia.org/wiki/Web_application">web application</a>. PHP is dead. Java is dead.
+</p>
+
 <h3>Use Rails</h3>
-<a href="http://rubyonrails.org/"><img class="alignnone size-full wp-image-172" title="Ruby on Rails" src="images/Ruby-on-Rails.png" alt="" width="540" height="103" /></a>
+
+<p><a href="http://rubyonrails.org/"><img class="alignnone size-full wp-image-172" title="Ruby on Rails" src="images/Ruby-on-Rails.png" alt="" width="540" height="103" /></a>
 
 If you've got a blank slate, use <a href="http://rubyonrails.org/">Rails</a>. If you've only built a prototype, switch to Rails as soon as possible. If you decide to ignore Rails you're one of two things:
-<ul>
+</p>
+<p><ul>
 	<li>Much smarter than me. You've won several awards for your coding chops and you're building a new <a href="http://www.erlang.org/">Erlang</a> framework that will replace Rails in 6 months</li>
 	<li>A complete buffoon who knows nothing</li>
 </ul>
-So, before you start hurling tomatoes at me, here are five reasons you should use rails:
+</p>
+
+<p>So, before you start hurling tomatoes at me, here are five reasons you should use rails:
+</p>
 <h3>1. Intelligent Defaults</h3>
-<a href="http://net.tutsplus.com/tutorials/other/zero-to-sixty-creating-and-deploying-a-rails-app-in-under-an-hour/"><img class="alignnone size-full wp-image-173" title="Flash-Message" src="images/Flash-Message.png" alt="" width="540" height="82" /></a>
+<p><a href="http://net.tutsplus.com/tutorials/other/zero-to-sixty-creating-and-deploying-a-rails-app-in-under-an-hour/"><img class="alignnone size-full wp-image-173" title="Flash-Message" src="images/Flash-Message.png" alt="" width="540" height="82" /></a></p>
 
+<p>
 The Rails team has some of the smartest technologists working to improve the standard behaviors in the framework. One example of this is error validation and the flash message. The flash message is used to provide feedback to the user after an action has been taken. Things like "Thanks for signing up" or "You need to fill in an email address". Rails defaults are more intelligent. The default flash message behaves in the way users expect. Other frameworks I've seen used on software projects like <a href="http://seamframework.org/">Seam</a> and <a href="http://www.zend.com/en/community/framework">Zend</a> have extremely awkward standard behaviors that cause user confusion. Every default you need to correct sucks time away from doing cool things. There are hundreds of examples of intelligent defaults within Rails.
-
+</p>
+<p>
 Don't believe me yet? Pluralize is another. Rails can automagically <a href="http://slash7.com/2005/11/17/rails-howto-pluralizing/">pluralize</a> words like "user" or "person". 1 <em>person</em>, 2 <em>people</em>. Rails gives this to you for <em>free </em>too. Think about the sites you know out there built on crappy frameworks that do things like 100 user(s). Why be one of them? Why build it yourself?
+</p>
+
 <h3>2. Super-fast Deployment</h3>
-<a href="http://heroku.com"><img class="alignnone size-full wp-image-174" title="Heroku" src="images/Heroku.png" alt="" width="540" height="140" /></a>
 
-Im going to highlight <a href="http://heroku.com">heroku</a> here because this is the way deployment should be:
+<p><a href="http://heroku.com"><img class="alignnone size-full wp-image-174" title="Heroku" src="images/Heroku.png" alt="" width="540" height="140" /></a>
+</p>
+<p>Im going to highlight <a href="http://heroku.com">heroku</a> here because this is the way deployment should be:
+</p>
+<p><code>git push heroku master</code>
+</p>
+<p>That's it. If your deploy process takes more than 1 - 5 minutes, consider switching to Rails. (Also see <a href="http://www.capify.org">Capistrano</a> for deployment)
+</p>
 
-<code>git push heroku master</code>
-
-That's it. If your deploy process takes more than 1 - 5 minutes, consider switching to Rails. (Also see <a href="http://www.capify.org">Capistrano</a> for deployment)
 <h3>3. Gems</h3>
-<img class="alignnone size-full wp-image-176" title="RubyGems" src="images/RubyGems.png" alt="" width="540" height="105" />
 
-If you don't get something for free in core rails, the next place to try to find it is in a <a href="http://rubygems.org/">Gem</a>. Gems allow you to do harder things really easily - like connecting to twitter, or facebook, or processing images. The same intelligent people working on rails extend it with gems. As of this writing there are over 11,000 gems that a developer can install to make life easier.
+<p><img class="alignnone size-full wp-image-176" title="RubyGems" src="images/RubyGems.png" alt="" width="540" height="105" />
+</p>
+<p>If you don't get something for free in core rails, the next place to try to find it is in a <a href="http://rubygems.org/">Gem</a>. Gems allow you to do harder things really easily - like connecting to twitter, or facebook, or processing images. The same intelligent people working on rails extend it with gems. As of this writing there are over 11,000 gems that a developer can install to make life easier.
+</p>
+<p>As one example, I had a side project where I wanted to make pretty urls - like my.com/people/colin rather than my.com/users?id=23. On a java project I worked on, it took a developer a day of work to get Pretty URLs working for me. It took me 20 minutes using <a href="http://rubygems.org/gems/friendly_id">friendly_id</a>, a rails gem.
+</p>
 
-As one example, I had a side project where I wanted to make pretty urls - like my.com/people/colin rather than my.com/users?id=23. On a java project I worked on, it took a developer a day of work to get Pretty URLs working for me. It took me 20 minutes using <a href="http://rubygems.org/gems/friendly_id">friendly_id</a>, a rails gem.
+<p>There are great rails gems for almost EVERYTHING. That's part of what you get with a solid community.
+</p>
 
-There are great rails gems for almost EVERYTHING. That's part of what you get with a solid community.
 <h3>4. Community</h3>
-The last thing you want to do is build your application on a framework with a dead community. The community improves the framework, provides support, and shares knowledge about the best way to do things. The <a href="http://rubyonrails.org/community">rails community</a> is the most intelligent and active developer community on the web right now. That's why you have a gem for almost everything - and sometimes more than one. The rails community is innovating and other people are borrowing ideas from them. But if you're anywhere else, you're already behind the curve.
-<h3>5. Synergy</h3>
-<img class="alignnone size-full wp-image-178" title="Synergy" src="images/Synergy.jpg" alt="" width="540" height="439" />
+<p>The last thing you want to do is build your application on a framework with a dead community. The community improves the framework, provides support, and shares knowledge about the best way to do things. The <a href="http://rubyonrails.org/community">rails community</a> is the most intelligent and active developer community on the web right now. That's why you have a gem for almost everything - and sometimes more than one. The rails community is innovating and other people are borrowing ideas from them. But if you're anywhere else, you're already behind the curve.
+</p>
 
-Put all of this together and you get every business douchebag's favorite buzz word: <strong>Synergy</strong>. You can build better web applications faster. My friend <a href="http://euwyn.com">Euwyn</a> thinks you can build a basic version of any application in rails in a weekend. <strong>I agree</strong>. When everything else feels like an uphill battle, ride the rails and get more done in less time.
+<h3>5. Synergy</h3>
+
+<p><img class="alignnone size-full wp-image-178" title="Synergy" src="images/Synergy.jpg" alt="" width="540" height="439" />
+</p>
+<p>Put all of this together and you get every business douchebag's favorite buzz word: <strong>Synergy</strong>. You can build better web applications faster. My friend <a href="http://euwyn.com">Euwyn</a> thinks you can build a basic version of any application in rails in a weekend. <strong>I agree</strong>. When everything else feels like an uphill battle, ride the rails and get more done in less time.
+</p>
+
 <h3>What about Django?</h3>
-This article could have been written about Django too. I like and recommend Django as an alternative to Rails, but it really depends on what your developers prefer. If you have a developer trying to convince you to use something other than Rails or Django, find a different developer.
+
+<p>This article could have been written about Django too. I like and recommend Django as an alternative to Rails, but it really depends on what your developers prefer. If you have a developer trying to convince you to use something other than Rails or Django, find a different developer.
+</p>
+
 <h3>Convince me I'm wrong</h3>
-Please, convince me. Show me some alternatives that allow you to develop better applications faster than Rails. I don't think they are out there right now.
+<p>Please, convince me. Show me some alternatives that allow you to develop better applications faster than Rails. I don't think they are out there right now.</p>
