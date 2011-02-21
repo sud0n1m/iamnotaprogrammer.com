@@ -1,9 +1,21 @@
-<!DOCTYPE html>
+<!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
-   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>{{ page.title }}</title>
+	<meta charset="utf-8">
+
+	<title>{{ page.title }}</title>
+	
    <meta name="author" content="Colin Nederkoorn" />
+   <meta name="description" content="Colin Nederkoorn's personal website">
+   
+   <!--  Mobile viewport optimized: j.mp/bplateviewport -->
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+   <!-- Place favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+   <link rel="shortcut icon" href="/favicon.ico">
+   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+   
+   
    <link href="http://feeds.feedburner.com/iamnotaprogrammer" rel="alternate" title="Colin Nederkoorn" type="application/atom+xml" />
 
    <!-- syntax highlighting CSS -->
@@ -13,47 +25,54 @@
    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
 
 </head>
-<body>
-
-<div class="site">
-  <div class="title">
-    <a href="/">Colin Nederkoorn</a>
-    <a class="extra" href="/">home</a>
-  </div>
+<body lang="en">
   
-  {{ content }}
-  
-  <div class="footer">
-    <div class="contact">
-      <p>
-        Colin Nederkoorn<br />
-        Head of Product at <a href="http://challengepost.com/">ChallengePost</a><br />
-      </p>
-    </div>
-    <div class="contact">
-      <p>
-        <a href="http://twitter.com/alphacolin/">twitter.com/alphacolin</a><br />
-        <a href="http://flickr.com/photos/colin_n/">flickr.com/photos/colin_n</a>
-      </p>
-    </div>
-    <div class="rss">
-      <a href="http://feeds.feedburner.com/iamnotaprogrammer">
-        <img src="/images/rss.png" alt="Subscribe to RSS Feed" />
-      </a>
+  <div id="container">
+    <div class="site">
+      <header>
+        <div class="title">
+          <a href="/">Colin Nederkoorn</a>
+          <a class="extra" href="/">home</a>
+        </div>
+      </header>
+
+      <div id="main" role="main">
+      {{ content }}
+      </div>
+
+      <footer>
+        <div class="footer">
+          <div class="contact">
+            <p>
+              Colin Nederkoorn<br />
+              Head of Product at <a href="http://challengepost.com/">ChallengePost</a><br />
+          </p>
+        </div>
+        <div class="contact">
+          <p>
+            <a href="http://twitter.com/alphacolin/">twitter.com/alphacolin</a><br />
+            <a href="http://flickr.com/photos/colin_n/">flickr.com/photos/colin_n</a>
+          </p>
+        </div>
+        <div class="rss">
+          <a href="http://feeds.feedburner.com/iamnotaprogrammer">
+            <img src="/images/rss.png" alt="Subscribe to RSS Feed" />
+          </a>
+        </div>
+      </footer>
     </div>
   </div>
-</div>
 
-<!-- Google Analytics -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-12392264-1");
-pageTracker._trackPageview();
-</script>
-<!-- Google Analytics end -->
+<!-- JavaScript at the bottom for fast page loading -->
 
+
+  <!-- mathiasbynens.be/notes/async-analytics-snippet Change UA-XXXXX-X to be your site's ID -->
+  <script>
+    var _gaq=[['_setAccount','UA-12392264-1'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
+    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+  </script>
+  
 </body>
 </html>
