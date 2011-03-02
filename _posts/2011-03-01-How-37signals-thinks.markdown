@@ -3,7 +3,7 @@ layout: post
 title: "How 37Signals Thinks"
 ---
 
-![Basecamp Mobile startup sequence -> Icon, Loading, Project List](/images/basecamp-mobile.jpg "Basecamp Mobile Screens")
+![Basecamp Mobile startup sequence -> Icon, Loading, Project List](/images/Basecamp-Mobile.jpg "Basecamp Mobile Screens")
 
 
 37signals released [a mobile version of basecamp](http://37signals.com/svn/posts/2761-launch-basecamp-mobile). They opted not to do an iPhone app and focused on building a great mobile site. If you have an iPhone, Android, or Blackberry, [give it a shot](http://basecamphq.com/mobile). It's 95% of what an iOS native app feels like, but it's being rendered by the browser. Their announcement came around the same time that Apple announced it's new rules which would probably mean 37signals would have to share revenue with Apple. [John Gruber has some analysis on that](http://daringfireball.net/2011/03/dirty_percent).
