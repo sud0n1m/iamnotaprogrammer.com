@@ -10,7 +10,7 @@ title: "How 37Signals Thinks"
 
 The announcement is interesting reading, but for me the most interesting things came out in the comments:
 
-## On Culture
+## How 37Signals thinks about culture
 
 From Jason Fried (CEO of 37s) responding to a user comment:
 
@@ -20,7 +20,7 @@ From Jason Fried (CEO of 37s) responding to a user comment:
 
 Any complexity you add to your workflow becomes a pain to manage. 37Signals is adding one more: Mobile. So now they have 2 platforms (with lots of overlap) to build a new feature for. Contrast that with Twitter. They have the web, mobile, android, iOS, blackberry, Windows Phone 7, Mac. So let's say you wanted to add a new feature. You've got to build it and test it in 7 places vs. 2 places. If your goal in life is to prevent your head exploding, the 37signals approach looks pretty good.
 
-## On technology decisions
+## How 37Signals thinks about technology decisions
 
 From SS, a dev a 37s
 
