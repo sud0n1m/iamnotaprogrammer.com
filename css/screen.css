@@ -256,16 +256,16 @@ button {  width: auto; overflow: visible; }
    text-align: justify;
    width: 40em;
    line-height: 1.5em;
- 	margin: 0 auto 3em;
+    margin: 0 auto 3em;
  }
 
  .title {
    color: #0e00aa;
    margin-bottom: 2em;
- 	border-bottom: 2px solid #000;
- 	font: 0.9em sans-serif;
- 	padding-top: 10px;
- 	padding-bottom: 10px;
+    border-bottom: 2px solid #000;
+    font: 0.9em sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
  }
 
    .site .title a {
@@ -363,6 +363,16 @@ button {  width: auto; overflow: visible; }
    #post pre.terminal code {
      background-color: #333;
    }
+
+  #post blockquote {
+    font-style: italic;
+    border-top: 1px solid #BBB;
+    border-bottom: 1px solid #BBB;
+    margin: 1.5em 0;
+    padding: 0.5em 0;
+    display: block;
+    margin: 1em 40px;
+  }
 
  #related {
    margin-top: 2em;
