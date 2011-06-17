@@ -166,7 +166,9 @@ button {  width: auto; overflow: visible; }
  * Author: 
  */
 
-
+ #follow {
+    float: right;
+ }
 
  /*****************************************************************************/
  /*

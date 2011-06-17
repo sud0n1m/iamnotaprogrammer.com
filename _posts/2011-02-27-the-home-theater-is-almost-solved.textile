@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Cable is dead, long live cable"
+categories:
+- hometheater
+- appletv
+---
+In 2005 I started a long effort to cancel cable and replace it with a better, easier computer based solution. I think that 6 years later the technology is almost there. In a year Plex, Boxee and probably a few other options will be ready for prime time. The irony of all this is cable is still the fastest way to get your bits, so you might be canceling the video side of cable, but they still dominate data in the US. But enough about the future, let's jump into the past.
+
+h4. 2005 - XBMC on the Xbox
+
+I first got interested in connecting computers to the TV after experiencing "XBMC":http://xbmc.org/ on the original Xbox. I was blown away by how awesome it was to download content from the net and play it on your TV. I used XBMC on the Xbox until the h264 was popularized and the content I was grabbing online would no longer play on the Xbox.
+
+h4. 2006 - Windows Media Center on a custom built PC
+
+That prompted me to build an HTPC at my house in 2006. I had a 42 inch plasma mounted on the wall and in addition to downloaded content, I wanted to capture over the air (OTA) HD signals and use PVR software to record shows for me. Long story short,  "the setup failed":http://pintmaster.com/20060423/building-the-ultimate-cheap-hdtv-pvr-part-1/ . I never got the PVR portion working well. I ended up switching between OTA signals directly on the TV or playing downloaded content on the computer. One of the big issues with this setup is you had a giant machine with fans. You always end up with a keyboard and mouse tethered to the machine. So building a hardcore PC with custom components didn't work.
+
+h4. 2007 - Xbox 360 with Connect 360
+
+After that, I went back to the Xbox... but this time the Xbox 360. Using Connect360 on my Mac, I was able to stream from my computer in another room to the Xbox 360. This worked for me for a while, but it was pretty unreliable, and didn't provide organizational help for a large collection of video files.
+
+h4. 2008 - Mac Mini
+
+I was pretty pumped when "Boxee":http://boxee.tv came out in 2008. I bought a Mac Mini based on recommendations in the forums. I pried it open and upgraded the ram inside to 4 gigs and bought a "Drobo":http://drobo.com and 4 terabytes of hard drives to store downloaded content. I hit a brick wall on performance trying to play 1080p videos. In all honesty 720p is fine on the TV. I learned about Plex soon after that and switched back and forth between the two. Eventually, in 2010 Plex had hardware acceleration for h.264 content and I noticed the performance and organizational tools were better than Boxee. So, I was really excited when Elan, the developer behind "Plex":http://plexapp.com/ announced Plex Media Server and his deal with LG. I was pretty happy with the setup I had except for one thing. My Apple Wireless Bluetooth Keyboard broke. This gave me an opportunity to address one thing with this setup. It wasn't girlfriend proof. My girlfriend wouldn't touch the tv. I'd see her watching youtube videos and movie trailers on her iPod touch rather than on the TV. So, rather than dropping $69 to replace my broken Bluetooth Keyboard, I took another route.
+
+h4. 2011 Apple TV 2 + Plex Media Server
+
+I bought an Apple TV 2 today. Within an hour I installed Plex on the Apple TV following instructions on the "Plex wiki":http://wiki.plexapp.com/index.php/Apple_TV_Plex_Client_Install . I now have a tiny little box connected to my TV that I control only by a remote control. I've freed up my Mac Mini to be used as a real computer. I still have it downloading content with "Sickbeard":http://sickbeard.com/ and "Sabnzbd":http://sabnzbd.org/ and an account with "Giganews":http://www.giganews.com/?c=gn681153. If you want to learn about how to do that, let me know in the comments.
+
+So, now when I want to watch a show, my Mac Mini (or whatever machine has a Plex server running on it) transcodes it and streams it to the Apple TV. This is a great option because for everyone else, they get great content really easily. Netflix works great on the Apple TV. You can easily connect it to an iTunes library. And, now I've set up Plex on my machines, that content is automatically available on my TV. It can and will be easier in the future... but once again we've reached a new milestone in watching digital content on a TV.
