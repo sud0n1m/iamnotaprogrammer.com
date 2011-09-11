@@ -10,6 +10,6 @@ Entrepreneurs often take a shotgun approach to product design.  For one reason o
 
 When you look at the companies that do tremendously well, they often have products with one mission.
 
-These companies build simple products where every feature reinforces that mission. Companies like [Github](http://github.com), [Heroku](http://heroku.com), [Dropbox](http://dropbox.com), [Basecamp](http://basecamphq.com). They aren't necessarily simple technically. The value proposition is simple. The message is simple. All of these support each other to make the user experience simple.
+These companies build simple products where every feature reinforces that mission. Products like [Github](http://github.com), [Heroku](http://heroku.com), [Dropbox](http://dropbox.com), [Basecamp](http://basecamphq.com). They aren't necessarily simple technically. The value proposition is simple. The message is simple. All of these support each other to make the user experience simple.
 
 Solve one problem for one user in the best way you can. Grow from there.
