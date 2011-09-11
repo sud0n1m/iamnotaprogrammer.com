@@ -1,3 +1,5 @@
+/* @override http://localhost:4000/css/screen.css */
+
 /**
  * HTML5 ✰ Boilerplate
  *
@@ -167,8 +169,10 @@ button {  width: auto; overflow: visible; }
  */
 
  #follow {
-    float: right;
- }
+	display: inline-block;
+	position: relative;
+	left: 300px;
+}
 
  /*****************************************************************************/
  /*
