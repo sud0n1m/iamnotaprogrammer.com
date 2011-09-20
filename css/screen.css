@@ -380,6 +380,10 @@ button {  width: auto; overflow: visible; }
     margin: 1em 40px;
   }
 
+	#post em{
+		font-style: italic;
+	}
+
  #related {
    margin-top: 2em;
  }
