@@ -94,8 +94,8 @@ html { overflow-y: scroll; }
 /* Accessible focus treatment: people.opera.com/patrickl/experiments/keyboard/test */
 a:hover, a:active { outline: none; }
 
-a, a:active, a:visited { color: #607890; }
-a:hover { color: #036; }
+a, a:active, a:visited { color: #607890; text-decoration: none; }
+a:hover { color: #036; text-decoration: none; }
 
 
 ul, ol { margin-left: 2em; }
@@ -206,11 +206,13 @@ button {  width: auto; overflow: visible; }
 
  h1 {
    margin-bottom: 1em;
-   font-size: 1.3em;
+   font-size: 1.5em;
+	 font-weight: lighter;
  }
 
  p {
    margin: 1em 0;
+	 line-height: 1.3em;
  }
 
  a {
@@ -371,12 +373,11 @@ button {  width: auto; overflow: visible; }
 
   #post blockquote {
     font-style: italic;
-    border-top: 1px solid #BBB;
-    border-bottom: 1px solid #BBB;
-    margin: 1.5em 0;
-    padding: 0.5em 0;
+    /*border-top: 1px solid #BBB;
+    border-bottom: 1px solid #BBB;*/
+    padding: 0.2em 0;
     display: block;
-    margin: 1em 40px;
+    margin: 0.2em 40px;
   }
 
 	#post em{
@@ -445,6 +446,7 @@ button {  width: auto; overflow: visible; }
   /* Style adjustments for landscape mode goes here */
 
 }
+
 
 /* Grade-A Mobile Browsers (Opera Mobile, Mobile Safari, Android Chrome)
    consider this: www.cloudfour.com/css-media-query-for-mobile-is-fools-gold/ */
