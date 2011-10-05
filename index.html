@@ -4,14 +4,22 @@ title: Colin Nederkoorn
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
+  <h2>Blog Posts</h2>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 
-<h1>About me</h1>
+	<h2>Projects</h2>
+	<ul class="posts">
+		<li><a href="http://keynoteux.com">Keynote UX</a> - Free user experience stencils for Apple Keynote</li>
+		<li><a href="http://dopplecast.com">Dopplecast</a> - A free daily tweet with your weather</li>
+		<li><a href="http://bikeacrossthe.us">Bike Across The US</a> - A site tracking my progress biking across the US with help from twitter, flickr, fireeagle and brightkite</li>
+		<li><a href="https://github.com/sud0n1m/celsius-to-fahrenheit-ios5">Converter2</a> - A celsius to fahrenheit demo app on iOS 5
+	</ul>
+
+	<h2>About me</h2>
 
 <p>Back in January 2006, I started a challenge to create an open source solution for running <a href="windows-xp-on-the-intel-mac.html">Windows XP on the Intel Mac</a>. <a href="windows-xp-on-the-intel-mac.html">The challenge</a> raised over $13,500 from the crowd, and the problem was solved within a few months. Inspired by the success of this challenge, I left my job in sales and headed to Boston to join the world of startups.</p>
 <p>
