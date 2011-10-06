@@ -254,44 +254,120 @@ button {  width: auto; overflow: visible; }
 
  /*****************************************************************************/
  /*
- /* Site
+ /* Header
  /*
  /*****************************************************************************/
 
- .site {
-   font-size: 110%;
-   text-align: justify;
-   width: 40em;
-   line-height: 1.5em;
-    margin: 0 auto 3em;
- }
+header {		
+  height: 40px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10000;
+  overflow: visible;
+	text-align: left;
+}
+header .fill {
+	min-height: 40px;
+  background-color: #222;
+  background-color: #222222;
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#333333), to(#222222));
+  background-image: -moz-linear-gradient(top, #333333, #222222);
+  background-image: -ms-linear-gradient(top, #333333, #222222);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #333333), color-stop(100%, #222222));
+  background-image: -webkit-linear-gradient(top, #333333, #222222);
+  background-image: -o-linear-gradient(top, #333333, #222222);
+  background-image: linear-gradient(top, #333333, #222222);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#333333', endColorstr='#222222', GradientType=0);
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+}
 
- .title {
-    margin-bottom: 2em;
-    border-bottom: 2px solid #f5f5f5;
+
+header a {
+  color: #bfbfbf;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+header h3 a:hover, header .title a:hover, header ul .active > a {
+  background-color: #333;
+  background-color: rgba(255, 255, 255, 0.05);
+  color: #ffffff;
+  text-decoration: none;
+}
+header h3 {
+	float: left; 
+}
+header h3 a {
+  padding: 8px 20px 12px;
+  margin-left: -20px;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 200;
+  line-height: 1;
+}
+header p {
+  margin: 0;
+  line-height: 40px;
+}
+header p a:hover {
+  background-color: transparent;
+  color: #ffffff;
+}
+
+header .title {
     font: 0.9em;
     padding-top: 10px;
     padding-bottom: 10px;
+		display: block;
  }
 
-   .site .title a {
+	header .title a {
      color: #c1c1c1;
      text-decoration: none;
    }
 
-   .site .title a:hover {
+  header .title a:hover {
      color: #6f6f6f;
    }
 
-   .site .title a.extra {
+   header .title a.extra {
      color: #aaa;
      text-decoration: none;
-     margin-left: 1em;
    }
 
-   .site .title a.extra:hover {
+   header .title a.extra:hover {
      color: #6f6f6f;
    }
+
+	 header .follow-button {
+		float: right;
+		width: 200px;
+	 }
+
+
+
+ /*****************************************************************************/
+ /*
+ /* Site
+ /*
+ /*****************************************************************************/
+
+.container {
+	 width: 40em;
+   margin: auto; 
+}
+
+ .site {
+	 margin-top: 60px;
+   font-size: 110%;
+   text-align: left;
+   line-height: 1.5em;
+ }
+
+ 
 
    .site .meta {
      color: #aaa;
