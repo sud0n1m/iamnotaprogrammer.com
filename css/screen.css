@@ -192,8 +192,8 @@ button {  width: auto; overflow: visible; }
  }
 
  body {
-   background-color: white;
-   text-align: center;
+   background-image: url("/images/background.jpg");
+	 background-repeat: repeat;
 
    font-size: 1em;
    font-family: 'Georgia', Times, 'Times New Roman', serif;
@@ -242,15 +242,15 @@ button {  width: auto; overflow: visible; }
    margin-bottom: 2em;
  }
 
-   ul.posts li {
-     line-height: 1.75em;
-   }
+ ul.posts li {
+	 line-height: 1.75em;
+ }
 
-   ul.posts span {
-     color: #aaa;
-     font-family: Monaco, "Courier New", monospace;
-     font-size: 80%;
-   }
+ ul.posts span {
+	 color: #aaa;
+	 font-family: Monaco, "Courier New", monospace;
+	 font-size: 80%;
+ }
 
  /*****************************************************************************/
  /*
@@ -260,13 +260,13 @@ button {  width: auto; overflow: visible; }
 
 header {		
   height: 40px;
-  position: fixed;
   top: 0;
   left: 0;
   right: 0;
   z-index: 10000;
   overflow: visible;
 	text-align: left;
+	position: fixed;
 }
 header .fill {
 	min-height: 40px;
@@ -324,28 +324,28 @@ header .title {
 		display: block;
  }
 
-	header .title a {
-     color: #c1c1c1;
-     text-decoration: none;
-   }
+header .title a {
+	 color: #c1c1c1;
+	 text-decoration: none;
+ }
 
-  header .title a:hover {
-     color: #6f6f6f;
-   }
+header .title a:hover {
+	 color: #6f6f6f;
+ }
 
-   header .title a.extra {
-     color: #aaa;
-     text-decoration: none;
-   }
+ header .title a.extra {
+	 color: #aaa;
+	 text-decoration: none;
+ }
 
-   header .title a.extra:hover {
-     color: #6f6f6f;
-   }
+ header .title a.extra:hover {
+	 color: #6f6f6f;
+ }
 
-	 header .follow-button {
-		float: right;
-		width: 200px;
-	 }
+ header .follow-button {
+	float: right;
+	width: 200px;
+ }
 
 
 
@@ -356,7 +356,7 @@ header .title {
  /*****************************************************************************/
 
 .container {
-	 width: 40em;
+	 width: 50em;
    margin: auto; 
 }
 
@@ -369,36 +369,30 @@ header .title {
 
  
 
-   .site .meta {
-     color: #aaa;
-   }
+ .site .meta {
+	 color: #aaa;
+ }
 
-   .site .footer {
-     font-size: 80%;
-     color: #666;
-     border-top: 2px solid #000;
-     margin-top: 2em;
-     overflow: hidden;
-   }
 
-     .site .footer .contact {
-       float: left;
-       margin-right: 3em;
-     }
+ /*****************************************************************************/
+ /*
+ /* Footer
+ /*
+ /*****************************************************************************/
+footer{
+ color: #666;
+ margin-top: 2em;
+ overflow: hidden;
+}
 
-       .site .footer .contact a {
-         color: #0e00aa;
-       }
+footer p#about{
+  margin-bottom: 0px;
+}
 
-     .site .footer .rss {
-       margin-top: 1.1em;
-       margin-right: -.2em;
-       float: right;
-     }
-
-       .site .footer .rss img {
-         border: 0;
-       }
+header nav li{
+  display: inline;
+	margin-right: 10px;	
+}
 
  /*****************************************************************************/
  /*
@@ -407,6 +401,11 @@ header .title {
  /*****************************************************************************/
 
  #post {
+	 background-color: white;
+	 padding: 20px;
+	 -webkit-box-shadow: 0px 0px 2px 1px rgba(1, 1, 1, 0.1);
+-moz-box-shadow: 0px 0px 2px 1px rgba(1, 1, 1, 0.1);
+box-shadow: 0px 0px 2px 1px rgba(1, 1, 1, 0.1);
 
  }
 
