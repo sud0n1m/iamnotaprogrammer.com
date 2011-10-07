@@ -295,7 +295,6 @@ header h3 a:hover, header .title a:hover, header ul .active > a {
   background-color: #333;
   background-color: rgba(255, 255, 255, 0.05);
   color: #ffffff;
-  text-decoration: none;
 }
 header h3 {
 	float: left; 
@@ -330,7 +329,7 @@ header .title a {
  }
 
 header .title a:hover {
-	 color: #6f6f6f;
+	 color: white;
  }
 
  header .title a.extra {
