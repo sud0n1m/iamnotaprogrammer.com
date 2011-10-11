@@ -25,4 +25,6 @@ But, I'm almost 30 and I have no savings. Most of my income goes towards my rent
 
 For being within the top 10% of income earners in the United States, I'm hardly living large. It's unsurprising to me that the American Dream is failing to deliver for most of the dreamers. It's unsurprising people can't make ends meet and spiral further and further into debt. [I was there for a little while](/debt.html), and at that point I still made more money than most people in the country.
 
-People can and should help themselves as much as they can. But what do you do when the game changes? [High jobless rates](https://plus.google.com/103473970185401613274/posts) aren't a result of increased laziness. I've made my own path since college and earned the jobs I've had including my current one. But when you look at things in real terms, if I'm in the top 10% and I can just make ends meet, how in heck does the bottom 90% make it?
+People should help themselves as much as they can. But what do you do when the game changes? [High jobless rates](https://plus.google.com/103473970185401613274/posts) aren't a result of increased laziness. What do you do when someone promises you the American Dream? All you have to do is trust them. What do you do when the things you based your livelihood on turned out to be false? 
+
+I've made my own path since college and earned the jobs I've had including my current one. But when you look at things in real terms, if I'm in the top 10% and I can just make ends meet, how in heck does the bottom 90% make it?
