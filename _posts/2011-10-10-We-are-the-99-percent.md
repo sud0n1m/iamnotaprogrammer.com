@@ -19,7 +19,7 @@ in pursuit of their own American dream, sold the dream on. If they
 didn't, they'd have to question their own beliefs. But as a result, we've ended up
 building a society [of the 1%, by the 1%, and for the 1%](http://www.vanityfair.com/society/features/2011/05/top-one-percent-201105).
 
-I'm lucky in comparison. I've read many the stories of the 99% and I feel sad for them. *I am the 99%*, but I'm in the upper part. I'm well within the top 10% of the country in terms of income. I have health insurance. I don't have debt. My job is great.
+I'm lucky in comparison. I've read many of the stories of the 99% and I feel sad for them. *I am the 99%*, but I'm in the upper part. I'm well within the top 10% of the country in terms of income. I have health insurance. I don't have debt. My job is great.
 
 But, I'm almost 30 and I have no savings. Most of my income goes towards my rental apartment and food. I travel a few times a year and I don't spend a lot of money going out drinking or to night clubs. I take public transport or ride my bike to get around.
 
