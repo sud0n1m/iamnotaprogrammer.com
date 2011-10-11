@@ -2,7 +2,7 @@
 layout: post
 title: "We are the 99 percent"
 ---
-If the pundits on the 24 hour news networks read the posts on the tumblog [We are the 99 percent](http://wearethe99percent.tumblr.com/) , it would be impossible to dismiss Occupy Wall St as a bunch of pot heads too lazy to get a job. So what unites the 99 percent? 
+If the pundits on the 24 hour news networks read the posts on the tumblog [We are the 99 percent](http://wearethe99percent.tumblr.com/) , it would be impossible to dismiss [Occupy Wall St](http://occupywallst.org/) and similar movements as merely a bunch of pot heads too lazy to get a job. So what unites the 99 percent? 
 
 Everyone bought the American dream. 
 
