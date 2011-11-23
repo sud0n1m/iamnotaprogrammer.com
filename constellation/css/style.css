@@ -18,8 +18,14 @@ body {
       }
 
 h1 {
+    text-indent: -3000px;
+    background-image: url("../images/logo.gif");
+    height: 249px;
+    width:  574px;
+    white-space: nowrap;
+		margin: auto;
+	}
 
-	text-align: center;
-	padding-top: 20px;
-
-}
+h1 a {
+    outline: none;  
+	}
