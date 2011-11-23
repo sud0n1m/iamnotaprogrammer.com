@@ -1,0 +1,40 @@
+body{
+	padding: 40px;
+	background: url(black_linen_v2.png) repeat;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+h1{ 
+	text-transform: uppercase;
+	color: #c2c2c2;
+	font: bold 14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+p{
+	font-size: .8em;
+	color: #7c7c7c;
+}
+a {
+	color: #8b8b8b;
+	
+}
+	.quotes {
+	color: #444;
+    text-decoration: none;
+    text-align: left;
+    overflow: hidden;
+    display:table-cell;
+    vertical-align:middle;
+	font: 4.5em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	font-weight: lighter;
+	letter-spacing: -1px;
+}
+
+.bubble{
+		
+		border-radius: 20px;
+		-moz-border-radius: 20px; 
+		-webkit-border-radius: 20px; 
+		border: 1px solid #808080;
+		background-color: #ffffff;
+		padding: 40px;
+}
