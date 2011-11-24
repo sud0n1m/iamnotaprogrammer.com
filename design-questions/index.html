@@ -1,22 +1,20 @@
-<html>
-	<head>
+---
+title: "Design Questions"
+layout: blank
+---
 <script src="jquery-1.6.4.min.js" type="text/javascript"></script>
 
 <link href="style.css" rel="stylesheet" type="text/css">
-<title>Design Questions</title>
-</head>
 
-<body>
-
-
-
-<h1>Design Review Questions</h1>
-<p>Use these questions when reviewing, wireframes, mockups and site copy. Quotes are from Jason Fried's post <a href="http://37signals.com/svn/posts/3024-questions-i-ask-when-reviewing-a-design">Questions I ask when reviewing a design</a> on Signal vs. Noise</p>
-<div class="bubble">
-<div class="quotes"></div></td>
+<div class="design">
+	<h1>Design Review Questions</h1>
+	<p>Use these questions when reviewing, wireframes, mockups and site copy. Quotes are from Jason Fried's post <a href="http://37signals.com/svn/posts/3024-questions-i-ask-when-reviewing-a-design">Questions I ask when reviewing a design</a> on Signal vs. Noise</p>
+	<div class="bubble">
+		<div class="quotes"></div>
 	</div>
+</div>
 
-		<script>
+<script>
 	jQuery(document).ready(function($) {
     $.get('quotes.txt', function(data) {
         var quotes = data.split("\@");
@@ -26,11 +24,3 @@
 });
 </script>
 
-  <script>
-    var _gaq=[['_setAccount','UA-12392264-1'],['_trackPageview']];
-    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
-    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-    s.parentNode.insertBefore(g,s)}(document,'script'));
-  </script>
-
-</body>

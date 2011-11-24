@@ -1,12 +1,15 @@
-body{
-	padding: 40px;
+body {
 	background: url(black_linen_v2.png) repeat;
+
+}
+
+.design {
+	padding-top: 60px;
 	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 h1{ 
-	text-transform: uppercase;
 	color: #c2c2c2;
-	font: bold 14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	font: bold 2em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 
 p{
