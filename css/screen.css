@@ -354,11 +354,6 @@ header .title a:hover {
  /*
  /*****************************************************************************/
 
-.container {
-	 width: 50em;
-   margin: auto; 
-}
-
  .site {
 	 margin-top: 60px;
    font-size: 110%;
