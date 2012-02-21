@@ -24,15 +24,15 @@ in the format:
 
 If `this happens` then `send the customer that email`
 
-I'd rather go to the dentist and have my wisdom teeth pulled again then
-try to build 5 emails like that from scratch. They're a pain to create and manage in
+I'd rather go to the dentist and have my wisdom teeth pulled again than
+try to build 5 triggered emails like that from scratch. They're a pain to create and manage in
 your own software, so we're making it easy to manage by using our
 software.
 
 Our Startup's Buzzwords: Big Data, Email Marketing, Customer Retention, Lifecycle
 Marketing, Drip Marketing, User Retention as a Service.
 
-So, we're making it easy to build, manage, and measure automatic customer
+We're making it easy to build, manage, and measure automatic customer
 retention.
 
 ### Farewell old friends
