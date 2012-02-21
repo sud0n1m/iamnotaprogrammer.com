@@ -3,7 +3,6 @@ destination: ./_site
 includes:    ./_includes
 
 pygments:    true
-markdown:    rdiscount
 permalink:   /:title.html
 
 base_url: http://iamnotaprogrammer.com
