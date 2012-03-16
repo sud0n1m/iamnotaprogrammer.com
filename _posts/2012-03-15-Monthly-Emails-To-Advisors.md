@@ -32,3 +32,5 @@ It works like this. Figure out the top 3-5 things in each category. For example:
 Send this email to your current investors / potential investors / trusted advisors with a short summary. You can cast a wide net to get help with your problems. They are then fully up to date on how you're doing, and they know what your next efforts will be. 
 
 Updating people any other way takes time and effort away from what really matters: building your company.
+
+[![Customer.io](/images/Customer-io-banner.png)](http://customer.io)
