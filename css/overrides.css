@@ -37,8 +37,15 @@ header {
 	list-style: none;
 }
 
+ul.posts {
+	margin: 0;
+}
+
 .posts span {
-	color: silver;
+	color: rgba(0, 0, 0, 0.4);
+	font-style: italic;
+	width: 17%; 
+	display: inline-block;
 }
 
 
@@ -57,4 +64,28 @@ ul.footer-links{
 ul.footer-links li {
 	display: inline-block;
 	padding-right: 20px;
+}
+
+
+
+article p {
+	margin: 25px 0;
+	font-size: 100%;
+	line-height: 1.6em;
+}
+
+article ul {
+	list-style-type: circle;
+}
+
+article ul li {
+	margin-bottom: 10px;
+}
+
+article h3 {
+	font-weight: 400;
+	color: rgba(0, 0, 0, 0.4);
+	font-size: 14px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
 }
