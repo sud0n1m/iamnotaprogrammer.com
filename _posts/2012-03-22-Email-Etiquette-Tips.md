@@ -17,4 +17,4 @@ After the intro is made, drop the person who made the intro from the thread. The
 
 ## Bonus: Scheduling
 
-Sometimes you end up dealing with unresponsive people. By the time they respond, Tuesday at 4 and Wednesday at 2 are no longer available. Send everyone to [Tungle](http://tungle.me). You can pull in all of your calendars so even if you schedule outside of Tungle too, it's always up to date.
+Sometimes you end up dealing with unresponsive people. By the time they respond, Tuesday at 4 and Wednesday at 2 are no longer available. Send everyone to [Tungle](http://tungle.me). You can pull in all of your calendars so even if you schedule outside of Tungle too, it's always up to date ([here's mine](http://tungle.me/colinnederkoorn)).
