@@ -74,18 +74,26 @@ article p {
 	line-height: 1.6em;
 }
 
-article ul {
+ul {
 	list-style-type: circle;
 }
 
-article ul li {
+ul li {
 	margin-bottom: 10px;
 }
 
 article h3 {
 	font-weight: 400;
 	color: rgba(0, 0, 0, 0.4);
-	font-size: 14px;
+	font-size: 16px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+h3 {
+	font-weight: 400;
+	color: rgba(0, 0, 0, 0.4);
+	font-size: 16px;
 	letter-spacing: 1px;
 	text-transform: uppercase;
 }
