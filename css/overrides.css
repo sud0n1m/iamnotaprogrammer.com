@@ -48,6 +48,12 @@ ul.posts {
 	display: inline-block;
 }
 
+.share {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.1)
+}
+.share div{
+	margin: 10px 0 10px 10px;
+}
 
 footer {
 	margin-top: 20px;
