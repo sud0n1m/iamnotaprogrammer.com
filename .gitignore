@@ -1,2 +1,5 @@
 _drafts/
 _site/
+.include_tree
+.spinto_data
+.gitignore
