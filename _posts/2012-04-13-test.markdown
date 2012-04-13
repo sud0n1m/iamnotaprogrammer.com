@@ -1,6 +1,6 @@
 ---
-title: test
-published: false
+title: test new blog post
+published: true
 layout: blank
 ---
 
