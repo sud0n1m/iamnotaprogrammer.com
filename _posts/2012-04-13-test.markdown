@@ -1,7 +1,0 @@
----
-title: test new blog post
-published: true
-layout: post
----
-
-test
