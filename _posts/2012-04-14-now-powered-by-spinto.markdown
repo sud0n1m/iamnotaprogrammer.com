@@ -10,4 +10,6 @@ Github is great for hosting Jekyll sites except if you want to do things like us
 
 I had been generating my blog locally and pushing it to linode. Now, Spinto takes care of all that. I can either create posts locally in VIM or write in Markdown on Spinto.
 
-The site is extremely new, but Matthew Beale, the creator of Spinto has done a phenomenal job on a first version.
+The site is extremely new, but [Matthew Beale](http://twitter.com/mixonic), the creator of Spinto has done a phenomenal job on a first version.
+
+[Check it out](http://spintoapp.com)
