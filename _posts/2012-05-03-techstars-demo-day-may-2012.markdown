@@ -1,6 +1,6 @@
 ---
 title: Techstars demo day
-published: true
+published: false
 layout: post
 ---
 
