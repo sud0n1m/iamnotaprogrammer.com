@@ -5,7 +5,7 @@ layout: post
 ---
 
 There are really only 2 accelerator programs. Techstars and Y-combinator. I attended Techstars demo day in Boston today and saw 13 phenomenal companies, on stage, presenting to a room full of investors. 
-h
+
 ## Companies presenting
 
 * Bison - Platform for alternative investments
