@@ -40,3 +40,5 @@ I use Jekyll + spinto. Jekyll alone would not work on the iPad as far as I know.
 * tweeting
 
 Overall, using the iPad for what it's designed to do is great. It's a wonderful device with a flexible, non-tactile interface. Going on a trip, if my goal is to do anything work related, I would gladly forget my iPad and remember my computer. The other way around makes me frustrated at the limitations of the iPad rather than enjoying its strengths. 
+
+-- written on my iPad
