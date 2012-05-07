@@ -6,7 +6,9 @@ layout: post
 
 Anyone who programs a lot probably has keyboard shortcuts memorized. After a while, you don't think about it, it's just muscle memory. (This may not the technical term)
 
-I try to make as much as possible accessible by muscle memory. When I was a kid, telephone numbers went in there. Now, it's my atm code, passwords, which pocket I keep my wallet in, and even where I keep my metrocard in my wallet. The more you can make consistent and reliable, the less you have to think when getting stuff done.
+I try to make as much as possible accessible by muscle memory. When I was a kid, telephone numbers went in there. Now, it's my atm code, passwords, which pocket I keep my wallet in, and even where I keep my metrocard in my wallet. 
+
+The more things in your life that are consistent and reliable, the less you have to think when getting stuff done.
 
 ## Hunt and click only
 
