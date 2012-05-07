@@ -9,7 +9,9 @@ There are really only 2 accelerator programs. Techstars and Y-combinator. I atte
 ## Companies presenting
 
 * Bison : Platform for alternative investments
-* DocTrackr : Document tracking and metrics
+* DocTrackr : Document tracking and metrics
+* Test
+
 * Pact : Mobile app that incentivizes regular exercise
 
 * LaVeem : The nexus of all food knowledge
