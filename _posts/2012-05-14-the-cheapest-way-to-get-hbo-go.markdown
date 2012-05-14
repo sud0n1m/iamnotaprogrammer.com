@@ -10,8 +10,8 @@ So, what's the cheapest way to get HBO Go?
 
 ### Verizon Fios TV
 
-* [Verizon Fios prices for HBO] (https://www22.verizon.com/fiostv/web/Unprotected/hbo.aspx?pcatid=G9613)
-* [Verizon Fios Local TV Plans (click See local channel plan](http://www22.verizon.com/home/fiostv/plans/)
+* [Verizon Fios prices for HBO](https://www22.verizon.com/fiostv/web/Unprotected/hbo.aspx?pcatid=G9613)
+* [Verizon Fios Local TV Plans - click See local channel plan](http://www22.verizon.com/home/fiostv/plans/)
 
     $12.99 (+ 2.99 discount) for basic Verizon FIOS TV
     $16.99 for HBO (50% off for 12 months) = $8.50. 
