@@ -10,6 +10,7 @@ So, what's the cheapest way to get HBO Go?
 
     $10 for basic Verizon FIOS TV
     $16.99 for HBO (50% off for 12 months) = $8.50.
+    --------------------------------------------------------
     $18.50 per month total.
 
 The big downside is that in order to get Verizon FIOS TV, you need to schedule an installation.
