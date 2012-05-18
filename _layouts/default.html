@@ -8,72 +8,46 @@
 	<meta name="author" content="Colin Nederkoorn" />
 	<link rel="author" href="https://plus.google.com/103473970185401613274">
    
-   <!--  Mobile viewport optimized: j.mp/bplateviewport -->
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
    
-   <!-- Place favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
-   <link rel="shortcut icon" href="/favicon.ico">
-   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-   
-   
-   <link href="http://feeds.feedburner.com/iamnotaprogrammer" rel="alternate" title="Colin Nederkoorn" type="application/atom+xml" />
+   	<link href="http://feeds.feedburner.com/iamnotaprogrammer" rel="alternate" title="Colin Nederkoorn" type="application/atom+xml" />
 
-   <!-- Homepage CSS -->
-   <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css" media="screen, projection" />
-	 <link rel="stylesheet" href="/css/overrides.css" type="text/css" />
-	 {% include typekit.html %}
+   	<link rel="stylesheet" href="/css/style.css" type="text/css" />
 
+	{% include typekit.html %}
 
 </head>
 <body lang="en">
   
 	<header>
 		<div class="container">
-			<div class="row">
-				<div class="span8">
-					<h3><a href="/">Colin Nederkoorn</a></h3>
-				</div>
-				<div class="span4">
-					<a href="https://twitter.com/alphacolin" class="twitter-follow-button" data-button="grey" data-text-color="#FFFFFF" data-link-color="#00AEFF">Follow @alphacolin</a>
-					<script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
-				</div>
-			</div>
+			<h1><a href="/">Colin Nederkoorn's Blog</a></h1>
 		</div>
 	</header>
 
-
 	<div class="container">
-    <div class="site">
-			<div class="row">
-				<div class="span3">
-					<img src="/images/colin-nederkoorn-sketch.jpg">
-					<br/>					<p>I'm Colin Nederkoorn, founder of<br/>
-					<strong>	<a
-							href="http://customer.io">Customer.io</a></strong>
-					<small> - Send emails to users automatically.
-						Based on what they do (or don't do) in your app.</p></small>
-			</div>
-			<div class="span9">
-				<div id="main" role="main">
-				{{ content }}
-				</div>
-			</div>
-    </div>
+		<section id="sidebar">
+			<img src="/images/colin-nederkoorn-sketch.jpg"
+			<br/><p>I'm Colin Nederkoorn, founder of<br/>
+			<strong><a href="http://customer.io">Customer.io</a></strong>
+			<small> - Send emails to users automatically.
+			Based on what they do (or don't do) in your app.</p></small>
+
+		</section>
+
+		<section id="content">
+			{{ content }}
+		</section>
 	</div>
 
 	
 	<footer>
-
-	<div class="container">
-		<ul class="footer-links">
+		<ul>
 			<li><a href="/about.html">About</a></li>
 			<li><a href="http://twitter.com/alphacolin">Twitter</a></li>
 			<li><a href="http://feeds.feedburner.com/iamnotaprogrammer">RSS</a></li>
 			<li><a href="http://customer.io">Automatic emails for user retention</a></li>
 		</ul>		
-	</div>
-	
- </footer>
+	</footer>
 
  {% include analytics.html %}
 

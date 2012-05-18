@@ -3,22 +3,20 @@ layout: default
 title: Colin Nederkoorn
 ---
 
-<div id="home">
-  <h2>Blog Posts</h2>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-	<br/>
-	<h2>Projects</h2>
-	<ul class="posts">
-		<li><a href="keynote-ux/">Keynote UX</a> - Free user experience stencils for Apple Keynote</li>
-		<li><a href="http://dopplecast.com">Dopplecast</a> - A free daily tweet with your weather</li>
-		<li><a href="http://bikeacrossthe.us">Bike Across The US</a> - A site tracking my progress biking across the US with help from twitter, flickr, fireeagle and brightkite</li>
-		<li><a href="https://github.com/sud0n1m/celsius-to-fahrenheit-ios5">Converter2</a> - A celsius to fahrenheit demo app on iOS 5
-		<li><a href="design-questions/">Design Questions</a> - Flashcards of questions to ask when reviewing a design
+<h2>Blog Posts</h2>
+<ul class="posts">
+	{% for post in site.posts %}
+  		<li><span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+</ul>
+<br/>
+<h2>Projects</h2>
+<ul class="posts">
+	<li><a href="http://customer.io">Customer.io</a> - Easy drip marketing campaigns and automatic emails</li>
+	<li><a href="keynote-ux/">Keynote UX</a> - Free user experience stencils for Apple Keynote</li>
+	<li>Dopplecast - A free daily tweet with your weather (no longer running)</li>
+	<li><a href="http://bikeacrossthe.us">Bike Across The US</a> - A site tracking my progress biking across the US with help from twitter, flickr, fireeagle and brightkite</li>
+	<li><a href="https://github.com/sud0n1m/celsius-to-fahrenheit-ios5">Converter2</a> - A celsius to fahrenheit demo app on iOS 5
+	<li><a href="design-questions/">Design Questions</a> - Flashcards of questions to ask when reviewing a design
 
-	</ul>
-
-	</div>
+</ul>
