@@ -89,8 +89,26 @@ section#content {
 	border-left: 1px solid rgba(0, 0, 0, 0.1);
 	padding: 40px 0px 40px 40px;
 
-	h1 {
+	article p {
+		margin: 25px 0;
+		font-size: 100%;
+		line-height: 1.6em;
+	}
 
+	article h3 {
+		font-weight: 400;
+		color: rgba(0, 0, 0, 0.4);
+		font-size: 16px;
+		letter-spacing: 1px;
+		text-transform: uppercase;
+	}
+
+	h3 {
+		font-weight: 400;
+		color: rgba(0, 0, 0, 0.4);
+		font-size: 16px;
+		letter-spacing: 1px;
+		text-transform: uppercase;
 	}
 
 	.posts {
@@ -134,28 +152,3 @@ footer {
 }
 
 
-
-
-article p {
-	margin: 25px 0;
-	font-size: 100%;
-	line-height: 1.6em;
-}
-
-
-
-article h3 {
-	font-weight: 400;
-	color: rgba(0, 0, 0, 0.4);
-	font-size: 16px;
-	letter-spacing: 1px;
-	text-transform: uppercase;
-}
-
-h3 {
-	font-weight: 400;
-	color: rgba(0, 0, 0, 0.4);
-	font-size: 16px;
-	letter-spacing: 1px;
-	text-transform: uppercase;
-}
