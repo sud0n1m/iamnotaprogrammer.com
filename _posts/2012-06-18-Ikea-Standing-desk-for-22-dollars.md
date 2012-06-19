@@ -49,7 +49,8 @@ Ryan and I did it with parts from Ikea for $22 (+ tax)
 * **Total cost: $21.98**
 
 Note: Make sure you get an 11 inch shelf + 11 inch brackets. This means
-you don't need to screw in the mount to the bracket.
+you don't need to screw in the shelf to the bracket (unless you want
+to).
 
 
 <a href="http://www.flickr.com/photos/colin_n/7403555302/" title="photo (5) by colin_n, on Flickr"><img src="http://farm8.staticflickr.com/7075/7403555302_0e4dbb44cb_m.jpg" width="180" height="240" alt="photo (5)"> </a> 
