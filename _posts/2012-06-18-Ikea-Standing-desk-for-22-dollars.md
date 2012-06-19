@@ -60,10 +60,14 @@ you don't need to screw in the mount to the bracket.
 
 ## Who's using this design?
 
+A few people so far:
+
 * Colin & John from [Customer.io](http://customer.io)
 * Ryan from [Opani](http://opani.com)
 * Joel & Matt from [Acquaintable](http://acquaintable.com)
 * Saikat from [Stripe](http://stripe.com)
+
+If you end up building it, let me know in the comments.
 
 ## The deluxe
 
