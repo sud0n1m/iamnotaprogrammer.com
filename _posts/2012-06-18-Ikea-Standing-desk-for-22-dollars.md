@@ -8,7 +8,7 @@ I've been interested in standing desks for a while. I keep reading
 things like: [he who sits the
 most dies the
 soonest](http://www.theatlantic.com/health/archive/2012/04/confirmed-he-who-sits-the-most-dies-the-soonest/256101/).
-All the options online are expensive. Until now...
+All the options online are expensive. Until now.  [Ryan from Opani](http://opani.com) and I combined our brains to see if we could come up with a better solution:
 
 ## Introducing The Standesk 2200
 
@@ -37,8 +37,8 @@ When you're working in a coworking space or in a regular office, the friction to
 * Your boss would rather you die in your chair than live on your feet
 
 [Marco Arment](http://marco.org) while working at Tumblr built his standing desk from stacking cans of soda [stacking
-cans](http://www.flickr.com/photos/marcoarment/3234209861/). [Ryan from Opani](http://opani.com) and I combined our brains to see if we could come up with a better solution. We could. 
-We did it with parts from Ikea for $22 (+ tax)
+cans](http://www.flickr.com/photos/marcoarment/3234209861/).
+Ryan and I did it with parts from Ikea for $22 (+ tax)
 
 ## So, what's the recipe?
 
