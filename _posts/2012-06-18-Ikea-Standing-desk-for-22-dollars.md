@@ -58,6 +58,13 @@ you don't need to screw in the mount to the bracket.
 
 ^ The desks in action.
 
+## Who's using this design?
+
+* Colin & John from [Customer.io](http://customer.io)
+* Ryan from [Opani](http://opani.com)
+* Joel & Matt from [Acquaintable](http://acquaintable.com)
+* Saikat from [Stripe](http://stripe.com)
+
 ## The deluxe
 
 Consider getting yourself another Lack Side Table ($7.99) to double the surface
