@@ -8,7 +8,7 @@ I've been interested in standing desks for a while. I keep reading
 things like: [he who sits the
 most dies the
 soonest](http://www.theatlantic.com/health/archive/2012/04/confirmed-he-who-sits-the-most-dies-the-soonest/256101/).
-All the options online are expensive. Until now.  [Ryan from Opani](http://opani.com) and I combined our brains to see if we could come up with a better solution:
+All the options online are expensive. Until now.  [Ryan of Opani, our deskmate who does amazing big data analytics](http://opani.com) and I combined our brains to see if we could come up with a better solution:
 
 ## Introducing The Standesk 2200
 
