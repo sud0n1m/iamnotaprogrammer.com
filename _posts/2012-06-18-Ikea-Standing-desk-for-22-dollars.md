@@ -30,7 +30,7 @@ The key thing is: you don't want your monitor and keyboard to be on the same sur
 
 ## Building a standing desk on a regular desk
 
-When you're working in a coworking space (we're in [General Assembly in New York](http://generalassemb.ly) or in a regular office, the friction to go from sitting to standing is usually high:
+When you're working in a coworking space (we're in [General Assembly in New York](http://generalassemb.ly)) or in a regular office, the friction to go from sitting to standing is usually high:
 
 * The cheapest adjustable standing desks are around $800 (geekdesk)
 * You already have an existing desk in your workspace
