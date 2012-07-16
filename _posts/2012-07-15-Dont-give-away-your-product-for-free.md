@@ -5,7 +5,7 @@ layout: post
 ---
 **…unless you plan to keep it free forever.**
 
-[The Cost of Free Doughnuts](http://www.npr.org/blogs/money/2012/07/13/156737801/the-cost-of-free-doughnuts-70-years-of-regret), a story on NPR shows what happens when you make something free -- paid. During WWII, the Red Cross, which used to give away free coffee and doughnuts started charging servicemen for doughnuts at the behest of the US Government. 
+[The Cost of Free Doughnuts](http://www.npr.org/blogs/money/2012/07/13/156737801/the-cost-of-free-doughnuts-70-years-of-regret), a story on NPR shows what happens when you make something paid that was once free. During WWII, the Red Cross, which used to give away free coffee and doughnuts started charging servicemen for doughnuts at the behest of the US Government. 
 
 **Veterans still remember this 70 years later!**
 
@@ -42,3 +42,4 @@ Every rule has exceptions. If you're building something with network effects, do
 For every successful network effect business, there are 100 examples of businesses who never charged money, got a lot of feedback from people who would never pay them and ended up building a product no one would ultimately want to pay for.
 
 **Honest question:** Are there good examples of network effect businesses that have charged money and had customers from day 1?
+
