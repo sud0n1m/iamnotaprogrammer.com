@@ -3,5 +3,5 @@ _site/
 .include_tree
 .spinto_data
 .gitignore
-.sass_cache/
+.sass-cache/
 public
