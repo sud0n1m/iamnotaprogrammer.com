@@ -131,7 +131,7 @@ I use a service called [Vyprvpn](http://www.goldenfrog.com/vyprvpn) which is $14
 
 In the UK people pay £145.50 per year (US $228) for a TV License for their household. This pays for the ridiculously high standard of TV broadcasting that the BBC provides. There are no commercials on BBC channels. Sporting events are broadcast uninterrupted. Live TV and old shows are available online to stream for free.
 
-It is illegal if you live in the UK and consume TV to not pay for your TV license.
+If you live in the UK and consume TV (no matter what device you use), [you must pay for your TV license](http://www.tvlicensing.co.uk/check-if-you-need-one/topics/technology--devices-and-online-top8).
 
 Legally, I'm unclear of if an American connecting on a VPN to a live stream in the UK is breaking the law. I would guess that it hasn't really come up with the TV license people yet.
 
@@ -141,7 +141,7 @@ Ethically, the bandwidth for the stream is being paid for by UK TV License payer
 
 Potentially. But the site is set up for people with physical addresses in the UK. I used to live there, so could try and use an old address and then ethically (and legally?) stream TV from the UK over a VPN.
 
-## All things considered, I'm watching the BBC stream
+## All things considered, I'd watch the BBC stream
 
 I've given up on the NBC coverage of the olympics. Connecting to a VPN is one click on both my laptop or iPad and I can connect both of those to my tv to sit on my couch and watch any event in the Olympics.
 
