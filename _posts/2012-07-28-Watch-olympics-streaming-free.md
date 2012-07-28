@@ -73,6 +73,8 @@ It's a real shame. And even with a cable subscription, with my 4 hour pass, I go
 
 Sure! In fact, if you're in the UK, you can legally stream every event of the Olympics live, and commercial free.
 
+Note: Further down I talk about mandatory TV Licenses. That's what makes it legal for people who live in the UK.
+
 ## Really? How does it compare if you're in the UK and want to watch the Olympics?
 
 Well, you'd go to www.bbc.co.uk and see something like this.
