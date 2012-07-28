@@ -3,7 +3,7 @@ title: I'm an American and I want to watch the Olympics. What do I do?
 published: true
 layout: post
 ---
-If you're like me, you woke up this morning and realized the Olympics was on and it might be incredible to watch the world's best athletes compete for medals and national honor.
+If you're like me, you woke up this morning and realized the Olympic Games are on and it might be incredible to watch the world's best athletes compete for medals and national honor.
 
 ## Flip on the tv
 
@@ -73,9 +73,9 @@ It's a real shame. And even with a cable subscription, with my 4 hour pass, I go
 
 Sure! In fact, if you're in the UK, you can legally stream every event of the Olympics live, and commercial free.
 
-Note: Further down I talk about mandatory TV Licenses. That's what makes it legal for people who live in the UK.
+Note: Further down I talk about mandatory TV Licenses. That + taxes is what makes it legal for people who live in the UK to stream tv. It's owned by the public.
 
-## Really? How does it compare if you're in the UK and want to watch the Olympics?
+## Really? How does the BBC experience compare if you're in the UK and want to watch the Olympics?
 
 Well, you'd go to www.bbc.co.uk and see something like this.
 
