@@ -11,7 +11,7 @@ You might have a TV like me that you've never used to watch broadcast TV. So, pl
 
 I didn't go out and buy an antenna, but I was able to tune quite a few channels. A bunch of commercials, some religious channels and Telemundo. 
 
-Telemundo's olympics coverage comes in CRYSTAL CLEAR in HD on my TV. Nothing but a spare coax cable used as my antenna.
+Telemundo's olympics coverage comes in CRYSTAL CLEAR in HD on my TV. BUT, Telemundo's coverage is all in Spanish, and my Spanish is poor. Surprising that it's so clear with the spare coax cable I used as my antenna.
 
 ![Telemundo clear over the air and in HD](https://img.skitch.com/20120728-pm6e31nhwux584hns1hw84bybh.medium.png)
 
