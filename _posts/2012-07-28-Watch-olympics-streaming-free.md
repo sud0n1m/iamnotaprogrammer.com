@@ -123,6 +123,8 @@ All of the screenshots above of what a Brit experiences were taken from my apart
 
 I use a service called [Vyprvpn](http://www.goldenfrog.com/vyprvpn) which is $14.99 a month. I get it as part of a bundle with a subscription to [Giganews](http://www.giganews.com/?c=gn681153). That's how I connect with a VPN to the UK. And you can too.
 
+**update:** In the comments on Hacker News, someone recommended [Unblock Us](http://unblock-us.com/). I've tested it and it works great. You change your DNS settings, so it's more steps to turn it on / off, very simple and inexpensive. I have no clue how it does what it does.
+
 ## Ethical and Legal Considerations
 
 In the UK people pay £145.50 per year (US $228) for a TV License for their household. This pays for the ridiculously high standard of TV broadcasting that the BBC provides. There are no commercials on BBC channels. Sporting events are broadcast uninterrupted. Live TV and old shows are available online to stream for free.
@@ -140,3 +142,5 @@ Potentially. But the site is set up for people with physical addresses in the UK
 ## All things considered, I'm watching the BBC stream
 
 I've given up on the NBC coverage of the olympics. Connecting to a VPN is one click on both my laptop or iPad and I can connect both of those to my tv to sit on my couch and watch any event in the Olympics.
+
+[Feel free to comment on Hacker News](http://news.ycombinator.com/item?id=4306600)
