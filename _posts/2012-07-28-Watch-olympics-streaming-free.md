@@ -129,7 +129,7 @@ I use a service called [Vyprvpn](http://www.goldenfrog.com/vyprvpn) which is $14
 
 ## Ethical and Legal Considerations
 
-In the UK people pay £145.50 per year (US $228) for a TV License for their household. This pays for the ridiculously high standard of TV broadcasting that the BBC provides. There are no commercials on BBC channels. Sporting events are broadcast uninterrupted. Live TV and old shows are available online to stream for free.
+In the UK people pay £145.50 per year (US $228) for a TV License for their household. Additionally, people living in the UK pay taxes that go towards paying for the ridiculously high standard of TV broadcasting that the BBC provides. There are no commercials on BBC channels. Sporting events are broadcast uninterrupted. Live TV and old shows are available online to stream for free.
 
 If you live in the UK and consume TV (no matter what device you use), [you must pay for your TV license](http://www.tvlicensing.co.uk/check-if-you-need-one/topics/technology--devices-and-online-top8).
 
