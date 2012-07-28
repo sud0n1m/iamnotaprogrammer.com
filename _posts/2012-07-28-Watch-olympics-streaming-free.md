@@ -13,7 +13,7 @@ I didn't go out and buy an antenna, but I was able to tune quite a few channels.
 
 Telemundo's olympics coverage comes in CRYSTAL CLEAR in HD on my TV. Nothing but a spare coax cable used as my antenna.
 
-![Telemundo clear over the air and in HD](https://img.skitch.com/20120728-pm6e31nhwux584hns1hw84bybh.png)
+![Telemundo clear over the air and in HD](https://img.skitch.com/20120728-pm6e31nhwux584hns1hw84bybh.medium.png)
 
 But no NBC…
 
@@ -21,17 +21,17 @@ But no NBC…
 
 While I was hard at work, Kate was downloading the NBC Olympics iPad app. I bet it just works, right?
 
-![Lots of good looking live sports](https://img.skitch.com/20120728-fhsdq19cwjs1q262bftregaues.png)
+![Lots of good looking live sports](https://img.skitch.com/20120728-fhsdq19cwjs1q262bftregaues.medium.png)
 
 Unfortunately not.
 
-![Grrrr… I don't have cable](https://img.skitch.com/20120728-c8e91ec629ni31ajsw9jy4r73i.png)
+![Grrrr… I don't have cable](https://img.skitch.com/20120728-c8e91ec629ni31ajsw9jy4r73i.medium.png)
 
 ## Watch it on your computer
 
 So, go to NBCOlympics.com. In the top right, you'll see "Watch the olympics live". 
 
-![Watch the olympics live](https://img.skitch.com/20120728-txn3pe1ugrthsbqwiu5s7rtxii.png)
+![Watch the olympics live](https://img.skitch.com/20120728-txn3pe1ugrthsbqwiu5s7rtxii.medium.png)
 
 Ok cool… I want to do that.
 
@@ -41,11 +41,11 @@ Oh wait - there's fine print.
 
 Ok, whatever, I'm going to "Click here & get ready" to see what happens.
 
-![Select your tv provider](https://img.skitch.com/20120728-e3n3ubrr2hagax16a7ggxajjms.png)
+![Select your tv provider](https://img.skitch.com/20120728-e3n3ubrr2hagax16a7ggxajjms.medium.png)
 
 Ah, so I sign in through my TV provider…
 
-![Verizon](https://img.skitch.com/20120728-jcw74iyfct1t9fwrbakui6gte6.png)
+![Verizon](https://img.skitch.com/20120728-jcw74iyfct1t9fwrbakui6gte6.medium.png)
 
 Ok, I don't pay for TV… but this looks A LOT like how you sign in for HBO GO. 
 
@@ -55,11 +55,11 @@ NBC is an over the air TV broadcaster. They paid the government for the right to
 
 **Why do I need a Cable TV subscription to view content broadcast over the airwaves online?**
 
-![Sign in](https://img.skitch.com/20120728-t6pgfei7arqixfc8g77uii493q.png)
+![Sign in](https://img.skitch.com/20120728-t6pgfei7arqixfc8g77uii493q.medium.png)
 
 I have a Verizon Fios account so I'm gonna try that to see what happens.
 
-![Not entitled](https://img.skitch.com/20120728-jwcr3pbkdt7rxgcq8qeb7yx4i.png)
+![Not entitled](https://img.skitch.com/20120728-jwcr3pbkdt7rxgcq8qeb7yx4i.medium.png)
 
 But what's this? A Temporary Viewing Pass. 
 
@@ -77,17 +77,17 @@ Sure! In fact, if you're in the UK, you can legally stream every event of the Ol
 
 Well, you'd go to www.bbc.co.uk and see something like this.
 
-![bbc homepage if you're in the uk](https://img.skitch.com/20120728-bbpnae7up86ns96f38rq965rte.png)
+![bbc homepage if you're in the uk](https://img.skitch.com/20120728-bbpnae7up86ns96f38rq965rte.medium.png)
 
 Click on the Live event (or iPlayer)
 
-![BBC sport homepage](https://img.skitch.com/20120728-xy3q1dar1mpwnsmdipr4iu4q4m.png)
+![BBC sport homepage](https://img.skitch.com/20120728-xy3q1dar1mpwnsmdipr4iu4q4m.medium.png)
 
 I took a crappy, small screenshot, but trust me when I say they list every single event that's currently, live. You click on the one you want to watch.
 
 You click on the thing you want to watch...
 
-![Holy cow, that's a live video](https://img.skitch.com/20120728-nnjcdhkq7w8n56mchu84ufea91.png)
+![Holy cow, that's a live video](https://img.skitch.com/20120728-nnjcdhkq7w8n56mchu84ufea91.medium.png)
 
 Then it starts playing, commercial free, interruption free and in pretty close to HD.
 
@@ -97,11 +97,11 @@ There's the official BBC iPlayer app. But there are also a variety of services t
 
 Here's what you'd see on TVCatchup.com
 
-![TV Catchup Olympics](https://img.skitch.com/20120728-m36ef5c4qsm9imyrbxsqacig5j.png)
+![TV Catchup Olympics](https://img.skitch.com/20120728-m36ef5c4qsm9imyrbxsqacig5j.medium.png)
 
 There's also watchtvnow.co.uk
 
-![Watch TV Now](https://img.skitch.com/20120728-8ywjd329xkmbk49axhe7n87ph1.png)
+![Watch TV Now](https://img.skitch.com/20120728-8ywjd329xkmbk49axhe7n87ph1.medium.png)
 
 ## How do you get it on your TV though?
 
@@ -109,11 +109,11 @@ Airplay to an Apple TV. You can stream video you're watching on the iPad, iPhone
 
 Brits would get a screen like this on their iPad when it's all working
 
-![iPad playing on tv](https://img.skitch.com/20120728-tguj7ujtndtixchg355628a1ig.png)
+![iPad playing on tv](https://img.skitch.com/20120728-tguj7ujtndtixchg355628a1ig.medium.png)
 
 Note the URL shows it's the official BBC stream, and it's playing on the TV
 
-![Streaming BBC to my TV](https://img.skitch.com/20120728-erqi48ersinqy13iwa57ehtsae.png)
+![Streaming BBC to my TV](https://img.skitch.com/20120728-erqi48ersinqy13iwa57ehtsae.medium.png)
 
 ## OK, but I'm not a Brit. I'm an American. How can I watch the Olympics online?
 
