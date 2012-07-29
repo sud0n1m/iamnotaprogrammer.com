@@ -85,7 +85,7 @@ Click on the Live event (or iPlayer)
 
 ![BBC sport homepage](https://img.skitch.com/20120728-xy3q1dar1mpwnsmdipr4iu4q4m.medium.png)
 
-I took a crappy, small screenshot, but trust me when I say they list every single event that's currently, live. You click on the one you want to watch.
+I took a crappy, small screenshot, but trust me when I say they list every single event that's currently, live.
 
 You click on the thing you want to watch...
 
