@@ -143,7 +143,7 @@ Potentially. But the site is set up for people with physical addresses in the UK
 
 **Update** I bought a TV License using my previous address in the UK. Ethically, I consider myself in the clear. Do you?
 
-![Tv license being processed](https://img.skitch.com/20120729-d5h3g5q2peds634hiateu3mpep.png)
+![Tv license being processed](https://img.skitch.com/20120729-8nkr9edjmm4966yt8qm1sfyg5t.png)
 
 
 
