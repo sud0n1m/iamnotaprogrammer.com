@@ -141,6 +141,12 @@ Ethically, the bandwidth for the stream is being paid for by UK TV License payer
 
 Potentially. But the site is set up for people with physical addresses in the UK. I used to live there, so could try and use an old address and then ethically (and legally?) stream TV from the UK over a VPN.
 
+**Update** I bought a TV License using my previous address in the UK. Ethically, I consider myself in the clear. Do you?
+
+![Tv license being processed](https://img.skitch.com/20120729-d5h3g5q2peds634hiateu3mpep.png)
+
+
+
 ## All things considered, I'd watch the BBC stream
 
 I've given up on the NBC coverage of the olympics. Connecting to a VPN is one click on both my laptop or iPad and I can connect both of those to my tv to sit on my couch and watch any event in the Olympics.
