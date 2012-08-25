@@ -47,7 +47,7 @@ You need to pay for the sim card to get started. It cost me $65.31 for the sim c
 
 You’ll need to tweak settings on the phone to get data. Specifically going to this site called Unlockit to get the settings for data on to the phone. It doesn’t require jailbreaking, and it works well when you follow instructions on [this wiki](http://wiki.howardforums.com/index.php/Straight_Talk_iPhone).
 
-Oh, and there's no visual voicemail. I send my voicemail to google voice, they do speech to text and email me messages, so it wasn't an issue for me. 
+Oh, and there's no visual voicemail. I send my voicemail to google voice, they do speech to text and email me messages, so it wasn't an issue for me.  
 
 **So, there you have it, a $45 a month iPhone bill**
 
