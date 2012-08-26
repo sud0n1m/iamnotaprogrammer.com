@@ -17,7 +17,7 @@ I knew in July as my contract came to a close that the iPhone 5 was coming out s
 
 A few months ago Virgin Mobile started selling the iPhone 4S. The difference between them and everyone else is they sell the iPhone at full price. Also, Virgin is a Mobile Virtual Network Operator (MVNO). They buy service in bulk from Sprint to resell to other people. Sprint (Virgin’s backbone) & Verizon are both on CDMA, but AT&T isn’t. So a Virgin Mobile iPhone can’t work on AT&T.
 
-I considered spending the $549 on the 8gb iPhone 4s. If you give your credit card number to Virgin, your monthly plan is as low as $30 a month (you get $5 off their listed $35 rate if you give a credit card and auto-renew) for unlimited data and 300 minutes. 
+I considered spending the $549 on the 8gb iPhone 4s. If you give your credit card number to Virgin, your monthly plan is as low as [$30 a month](http://www.virginmobileusa.com/iphone) for unlimited data and 300 minutes. 
 
 ![Graph showing break even](https://docs.google.com/spreadsheet/oimg?key=0AovD6KFbuDUpdGRJWjdsNkpXanZYdFU2cEpaaVU4QWc&oid=1&zx=9vy469g774qc)
 
