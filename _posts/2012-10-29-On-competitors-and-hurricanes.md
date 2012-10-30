@@ -78,7 +78,7 @@ Worrying about competitors forces you to be reactive rather than proactive. And 
 
 Sometimes though, your competitors get up in your grill and force you to worry about them, or prospects ask you to compare yourself to a competitor.
 
-## You should worry about customers in the same way you worry about hurricanes
+## You should worry about competition in the same way you worry about hurricanes
 
 I'm sitting at home writing this as Hurricane Sandy approaches. 
 
