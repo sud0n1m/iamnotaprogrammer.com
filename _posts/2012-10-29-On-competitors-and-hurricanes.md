@@ -30,7 +30,7 @@ Look for players in Email and Marketing Automation to start dipping their toes i
 
 ## What have our experiences been with competitors
 
-Overall, great. This is a space that I enjoy participating in. We attended [Inbox Love](http://inboxlove.com) recently and had a great time meeting up with people there. It was great to get a shout out from Ev @ Mailgun on our product, as well as compliments about our [weekly email advice](http://customer.io/learn-to-write-better-emails.html)
+Overall, great. This is a space that I enjoy participating in. We attended [Inbox Love](http://inboxlove.com) recently and had a great time meeting up with people there. It was great to get a shout out from Ev @ Mailgun on our product, as well as compliments about our [weekly email advice](http://customer.io/learn-to-write-better-emails.html) from numerous people there.
 
 And when it comes to our direct competitors we've seen two pretty distinct types.
 
@@ -48,7 +48,7 @@ And when it comes to our direct competitors we've seen two pretty distinct types
 
 ## How will you survive against companies with more money?
 
-I spoke with Chris, the CEO @ Wistia about their experience, and he shared their tremendously encouraging experience in the video hosting space. 
+I spoke with Chris, the CEO @ [Wistia](http://wistia.com) about their experience, and he shared their tremendously encouraging experience in the video hosting space. 
 
 When they started, things looked bleak. There were competitors with A LOT of money in the bank going after the same space.
 
@@ -63,6 +63,8 @@ We're in it for the long-haul.
 Just as in Wistia's market, I expect some companies to go big then go broke.
 
 I expect others will dabble and throw up a landing page, but then decide not to leave their day jobs. 
+
+A few will try to carve out their niche in the space, and if their bootstrapped, they'll survive. If they're not and have investor pressure, they'll pivot or die.
 
 As for us, we'll continue on our path. Powered by the love of our customers (and the cash they exchange for our service), we'll continue to innovate and plan to lead this space.
 
