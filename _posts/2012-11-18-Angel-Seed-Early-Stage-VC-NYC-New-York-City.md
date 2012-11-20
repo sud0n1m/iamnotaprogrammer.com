@@ -15,8 +15,8 @@ The goals of each investor type are different. Conversations with the wrong folk
 A couple of things to consider:
 
 1. VCs and most Seed funds value growth over profitability.
-1. VC and seed investments are often institutional money, not personal wealth.
-1. VC and seed investments often have a time-horizon they expect a return.
+1. VC and seed investments are often not investing their own money.
+1. VC and seed investments often have a time-horizon they expect a return to give profits back to their investors.
 1. Angels may be happy with a $5mm acquisition whereas a VC probably wouldn't.
 
 If you're starting a business that may never IPO and might max out at a healthy $10 - 50mm a year business, many VCs (even early stage VCs) won't be interested. If they are, they'll likely encourage you to pursue something they would consider a larger opportunity.
