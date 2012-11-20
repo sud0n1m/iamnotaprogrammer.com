@@ -2,6 +2,8 @@
 layout: post
 title: "Early Stage Investors in NYC - Angels, Seed and VCs"
 ---
+TLDR; Here's a list of early stage tech investors in NYC: [101 New York Angels, Seed Investors, and Early Stage VCs - EDITABLE](https://docs.google.com/a/customer.io/spreadsheet/ccc?key=0Ap5XbqUM9nICdG40LXVVamRyN19zZHlTU3E2SmdDTkE#gid=0)
+
 Surprisingly, one of the hard things with raising a round is figuring out who to pitch. Here are a few rules of thumb for the amount of money you should expect to receive frome each investor type:
 
 * Angel: $25,000 - 50,000 investment
