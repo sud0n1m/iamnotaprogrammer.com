@@ -1,0 +1,173 @@
+/* apply a natural box layout model to all elements */
+/* line 5, ../sass/style.scss */
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 8, ../sass/style.scss */
+.container {
+  width: 960px;
+  margin: 0px auto;
+  zoom: 1;
+}
+/* line 18, ../sass/bourbon/addons/_clearfix.scss */
+.container:before, .container:after {
+  content: "";
+  display: table;
+}
+/* line 23, ../sass/bourbon/addons/_clearfix.scss */
+.container:after {
+  clear: both;
+}
+
+/* line 16, ../sass/style.scss */
+a {
+  color: #479d97;
+}
+
+/* line 19, ../sass/style.scss */
+a:hover, a:visited {
+  color: #275753;
+}
+
+/* line 23, ../sass/style.scss */
+ul {
+  list-style-type: circle;
+}
+
+/* line 27, ../sass/style.scss */
+ul li {
+  margin-bottom: 10px;
+}
+
+/* line 31, ../sass/style.scss */
+body {
+  font-family: "ff-tisa-web-pro", "Georgia", serif;
+  font-size: 16px;
+  line-height: 22.4px;
+  margin: 0;
+}
+
+/* line 39, ../sass/style.scss */
+h1, h2, h3, h4, h5 {
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  margin-top: 0;
+}
+
+/* line 45, ../sass/style.scss */
+h1 {
+  font-size: 38.4px;
+  line-height: 44.8px;
+}
+
+/* line 51, ../sass/style.scss */
+p {
+  font-family: "ff-tisa-web-pro", "Georgia", serif;
+}
+
+/* line 56, ../sass/style.scss */
+header {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 20px 0 20px 0;
+  background-color: #b9e3e3;
+}
+/* line 61, ../sass/style.scss */
+header h2 {
+  font-size: 20px;
+  margin: 0;
+}
+/* line 66, ../sass/style.scss */
+header h2 a, header h2 a:hover, header h2 a:visited {
+  text-decoration: none;
+}
+/* line 69, ../sass/style.scss */
+header h2 a, header h2 a:visited {
+  color: #8dadad;
+}
+/* line 72, ../sass/style.scss */
+header h2 a:hover {
+  color: #597b7b;
+}
+
+/* line 79, ../sass/style.scss */
+section#sidebar {
+  margin-top: 20px;
+  width: 222px;
+  float: left;
+}
+
+/* line 85, ../sass/style.scss */
+section#content {
+  width: 714px;
+  float: left;
+  margin-left: 23px;
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 40px 0px 40px 40px;
+}
+/* line 93, ../sass/style.scss */
+section#content img {
+  max-width: 668px;
+  border: 2px solid #b9e3e3;
+}
+/* line 98, ../sass/style.scss */
+section#content article p {
+  margin: 25px 0;
+  font-size: 100%;
+  line-height: 1.6em;
+}
+/* line 104, ../sass/style.scss */
+section#content h2 {
+  line-height: 35.2px;
+}
+/* line 109, ../sass/style.scss */
+section#content h3 {
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.4);
+  font-size: 16px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+/* line 117, ../sass/style.scss */
+section#content .posts {
+  list-style: none;
+  margin: 0;
+}
+/* line 121, ../sass/style.scss */
+section#content .posts span {
+  color: rgba(0, 0, 0, 0.4);
+  font-style: italic;
+  width: 17%;
+  display: inline-block;
+}
+/* line 129, ../sass/style.scss */
+section#content #related {
+  margin-top: 20px;
+  background-color: #ddf2f2;
+  padding: 20px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+/* line 136, ../sass/style.scss */
+section#content #disqus_thread {
+  margin-top: 20px;
+}
+
+/* line 142, ../sass/style.scss */
+footer {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 20px 0 20px 0;
+}
+/* line 146, ../sass/style.scss */
+footer ul {
+  list-style: none;
+  margin: 0;
+}
+/* line 151, ../sass/style.scss */
+footer li {
+  display: inline-block;
+  padding-right: 20px;
+}

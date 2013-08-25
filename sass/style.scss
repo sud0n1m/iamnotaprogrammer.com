@@ -1,7 +1,5 @@
----
----
-@import 'css/bourbon/bourbon';
-@import 'css/partials/variables';
+@import 'bourbon/bourbon';
+@import 'partials/variables';
 
 /* apply a natural box layout model to all elements */
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
