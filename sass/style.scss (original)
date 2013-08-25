@@ -1,0 +1,158 @@
+---
+---
+@import 'css/bourbon/bourbon';
+@import 'css/partials/variables';
+
+/* apply a natural box layout model to all elements */
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+
+.container {
+	width: grid-width($gw);
+	margin: 0px auto;
+	@include clearfix;
+}
+
+// BASE STYLES
+
+a {
+	color: $link
+}
+a:hover, a:visited {
+	color: darken($link, 20%);
+}
+
+ul {
+	list-style-type: circle;
+}
+
+ul li {
+	margin-bottom: 10px;
+}
+
+body {
+	font-family: $bodyFont;
+	font-size: $baseSize;
+	line-height: $lineHeight;
+	margin: 0;
+
+}
+
+h1, h2, h3, h4, h5 {
+  	font-family: $headerFont;
+	font-weight: 300;
+	margin-top: 0;
+}
+
+h1 {
+	font-size: $baseSize * 2.4;
+  line-height: $baseSize * 2.8;
+}
+
+
+p {
+	font-family: $bodyFont
+}
+
+// HEADER
+header {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+	padding: 20px 0 20px 0;
+	background-color: $mainColor;
+
+	h2 {
+		font-size: 20px;
+    margin: 0;
+
+
+		a, a:hover, a:visited {
+			text-decoration: none;
+		}
+		a, a:visited {
+			color: #8dadad;
+		}
+		a:hover {
+			color: darken(#8dadad, 20%);
+		}
+	}
+}
+
+// SIDEBAR
+section#sidebar {
+	margin-top: 20px;
+	width: grid-width(3);
+	float: left;
+}
+
+section#content {
+	width: grid-width(9);
+	float: left;
+	margin-right: $gw-gutter - 1;
+	border-right: 1px solid rgba(0, 0, 0, 0.1);
+	padding: 40px 40px 40px 0px;
+
+
+  img {
+    max-width: 668px;
+    border: 2px solid $mainColor;
+  }
+
+	article p {
+		margin: 25px 0;
+		font-size: 100%;
+		line-height: 1.6em;
+	}
+
+  h2 {
+    line-height: $baseSize * 2.2;
+
+  }
+
+	h3 {
+		font-weight: 400;
+		color: rgba(0, 0, 0, 0.4);
+		font-size: 16px;
+		letter-spacing: 1px;
+		text-transform: uppercase;
+	}
+
+	.posts {
+	list-style: none;
+	margin: 0;
+
+		span {
+			color: rgba(0, 0, 0, 0.4);
+			font-style: italic;
+			width: 17%; 
+			display: inline-block;
+		}
+	}
+
+	#related {
+		margin-top: 20px;
+		background-color: lighten($mainColor, 10%);
+		padding: 20px;
+		@include border-radius(4px);
+	}
+
+	#disqus_thread {
+		margin-top: 20px;
+	}
+}
+
+
+footer {
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	padding: 20px 0 20px 0;
+
+	ul{
+		list-style: none;
+		margin: 0;
+	}
+
+	 li {
+		display: inline-block;
+		padding-right: 20px;
+	}
+}
+

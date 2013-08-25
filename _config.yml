@@ -1,5 +1,5 @@
 source:      .
-destination: ../public
+destination: _site
 includes:    ./_includes
 
 pygments:    true

@@ -19,6 +19,8 @@ That's what retreats are great for. Here's the approach we took:
 
 ## Change your scenery completely
 
+![View from the house](https://picturelife.com/v/1000/ExAc5mKwqFdpCp?ua=1377440999)
+
 We spend every day in the city. A cabin on a lake in the mountains was a perfect change of scenery for us. No sirens blaring. Lots of peace and quiet and nature.
 
 We rented a house that was comfortably sized for all of us. 4 of us in a house that could hold 10 (with lots of shared rooms). We certainly weren't crammed in there.
@@ -92,7 +94,7 @@ All the other questions around strategy and aspirations for the company were dis
 
 Sure! Some of our customers weren't as happy as usual with our customer support.
 
-[![Temper](https://photos-2.dropbox.com/t/0/AADi0mPZNjKiJLa9PHeOe7tnALInE_q6HCgW2jps_JE7WQ/12/2454/png/1024x768/3/1377439200/0/2/Temper%20took%20a%20dive-1.png/ZoMxTZY0r2xRBFfIWUv5aujpf-ZSvedbgGvDaGbaJaY)](https://temper.io/p/mqivrtwz)
+[![Temper](http://fast.customer.io/blog/Temper%20took%20a%20dive-1.png)](https://temper.io/p/mqivrtwz)
 
 We set up an auto-reply saying that if there was something urgent we'd deal with it. Otherwise we would answer over the weekend.
 

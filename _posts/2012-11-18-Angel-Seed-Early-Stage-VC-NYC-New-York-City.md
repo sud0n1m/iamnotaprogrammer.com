@@ -23,7 +23,7 @@ A couple of things to consider:
 
 If you're starting a business that may never IPO and might max out at a healthy $10 - 50mm a year business, many VCs (even early stage VCs) won't be interested. If they are, they'll likely encourage you to pursue something they would consider a larger opportunity.
 
-Now, you want to talk to people about your deal. Here are a list of people I got from Business Insider. I added 1 person to make it 101 New York City Early Stage investors. And supplemented it with information to figure out what type of investor they are.
+Now, you want to talk to people about your deal. Here are a list of people I got from [Business Insider](http://www.businessinsider.com/new-york-early-stage-tech-startup-investors-2012-6). I added 1 person to make it 101 New York City Early Stage investors. And supplemented it with information to figure out what type of investor they are.
 
 I'm trying an experiment. So if you want to add new people or additional info about the folks on here, feel free:
 
