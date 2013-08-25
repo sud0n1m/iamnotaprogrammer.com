@@ -1,6 +1,5 @@
 @import 'bourbon/bourbon';
 @import 'partials/variables';
-
 /* apply a natural box layout model to all elements */
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 
@@ -85,9 +84,9 @@ section#sidebar {
 section#content {
 	width: grid-width(9);
 	float: left;
-	margin-left: $gw-gutter - 1;
-	border-left: 1px solid rgba(0, 0, 0, 0.1);
-	padding: 40px 0px 40px 40px;
+	margin-right: $gw-gutter - 1;
+	border-right: 1px solid rgba(0, 0, 0, 0.1);
+	padding: 40px 40px 40px 0px;
 
 
   img {
@@ -153,4 +152,3 @@ footer {
 		padding-right: 20px;
 	}
 }
-
