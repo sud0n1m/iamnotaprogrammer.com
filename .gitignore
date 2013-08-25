@@ -1,7 +1,8 @@
-_drafts/
+_rafts/
 _site/
 .include_tree
 .spinto_data
 .gitignore
 .sass-cache/
 public
+s3_website.yml
