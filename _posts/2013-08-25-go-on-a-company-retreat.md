@@ -15,7 +15,7 @@ On a regular day it's hard to look more than 3 ft in front of your nose. You set
 
 Every so often it's helpful to take a step back, look at the big picture and get the whole team thinking about the next year, not just the next day.
 
-That's what retreats are great for. Here's the approach we took:
+Inspired by companies like [Wildbit](http://wildbit.com/blog/2013/06/27/2013-wildbit-retreat-dominican-republic/), we decided to take a retreat to spend a week and focus on the long term. Here's the approach we took:
 
 ## Change your scenery completely
 
