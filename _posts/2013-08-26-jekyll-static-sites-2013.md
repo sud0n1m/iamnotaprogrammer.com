@@ -21,13 +21,13 @@ Most posts in Jekyll (including this one) are written in the awesome [Markdown](
 
 One of the best parts of Jekyll is that there are tons of plugins for it. Like this [Sitemap generator](https://github.com/kinnetica/jekyll-plugins) that will help Google index your site. 
 
-## Compass and SaaS for design
+## Compass and Sass for design
 
-You can run two terminal windows when you're developing. One is auto-generating your jekyll site. The other is  generating your CSS from SaaS 
+You can run two terminal windows when you're developing. One is auto-generating your Jekyll site. The other is using [Comapss](http://compass-style.org) to generate your CSS from [Sass](http://sass-lang.com)
 
 ![Two windows](https://www.evernote.com/shard/s28/sh/4d258233-e776-421d-a4d0-8f89ebfe2501/49c7c9d43d9f61379623f476663e3086/res/89d2cd85-aa98-4069-966f-2757ffd1e4cc/skitch.png)
 
-By now you know Twitter Bootstrap, but also consider using the sass versions of [Zurb's Foundation](http://foundation.zurb.com/), or Thoughtbot's [Bourbon](http://bourbon.io/) and [Bourbon Neat](http://neat.bourbon.io/) when building your static site. 
+By now you know Twitter Bootstrap, but also consider using the Sass versions of [Zurb's Foundation](http://foundation.zurb.com/), or Thoughtbot's [Bourbon](http://bourbon.io/) and [Bourbon Neat](http://neat.bourbon.io/) when building your static site. 
 
 ## Pow for displaying static content
 
@@ -39,11 +39,11 @@ My directory structure is usually:
 >  - raw
 >  - public
 
-Where raw is the normal jekyll files, and public is symlinked to `_site` (the default location jekyll generates its output). This makes it possible to do things like have your local site at `iamnotaprogrammer.dev` rather than localhost:4000. You also don't need to be running jekyll to see it, just to generate changes. 
+Where raw is the normal Jekyll files, and public is symlinked to `_site` (the default location Jekyll generates its output). This makes it possible to do things like have your local site at `iamnotaprogrammer.dev` rather than localhost:4000. You also don't need to be running Jekyll to see it, just to generate changes. 
 
 ## Livereload to refresh the browser on changes
 
-Especially for doing styling changes, it's handy to use a [Livereload](http://livereload.com/) to auto-refresh when the site has been regenerated. 
+Especially for doing styling changes, it'J handy to use a [Livereload](http://livereload.com/) to auto-refresh when the site has been regenerated. 
 
 ## Deploy on Amazon S3, Cloudfront, Route53
 
@@ -77,7 +77,7 @@ I had so many hacked together deploy scripts. Now I run one command:
 
 I'm tremendously impressed by this gem. It's efficient, checks remote against local for files to delete. However, I'd love to see things get a little faster on pre-processing. 
 
-Overall deploying a jekyll site to S3 and cloudfront is pretty painless these days.
+Overall deploying a Jekyll site to S3 and cloudfront is pretty painless these days.
 
 ## Dynamic stuff on your site
 
