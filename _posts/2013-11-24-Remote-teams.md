@@ -17,7 +17,7 @@ We recently had the opportunity to run an experiment for two months where everyo
 
 * We want to hire the best people regardless of location
 * I don't want to tie myself (or the company) to New York City. It has a ridiculous cost of living, but it's a great place.
-* We could give employees the opportunity to be nomadic and work while exploring the world. What if you wanted to spend 2 months in Asia, and didn't want to quite your job or wait until retirement?
+* We could give employees the opportunity to be nomadic and work while exploring the world. What if you wanted to spend 2 months in Asia, and didn't want to quit your job or wait until retirement?
 
 There's a tremendous feeling of freedom when you abandon the shackles of a specific location. 
 
