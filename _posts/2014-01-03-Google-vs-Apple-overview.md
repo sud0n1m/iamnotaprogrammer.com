@@ -8,6 +8,8 @@ That's the question I keep coming back to in the decisions I make, both personal
 
 Data ownership is the crux of the decision to go with Apple or Google. iOS or Android. Gmail or ... something else.
 
+At a very basic level, it seems that if you go all Apple (and use their OS X server), then you can still own your data. If you go all Google, Google owns your data. It's of course not quite that simple. 
+
 Increasingly across different verticals, both Apple and Google have competing products:
 
 * Chromebook vs. Macbook
@@ -18,7 +20,7 @@ Increasingly across different verticals, both Apple and Google have competing pr
 * Google Hangouts vs. iMessage & Facetime
 * Google Now vs. Siri 
 
-The products are a direct reflection of the different strategies of the companies.
+The execution of the products are a direct reflection of the different strategies of the companies.
 
 ## Two different business models
 
