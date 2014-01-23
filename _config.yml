@@ -9,6 +9,7 @@ base_url: http://iamnotaprogrammer.com
 #base_url: /
 description: "New York Based User Experience Designer for Web Startups"
 root_desc: "Colin Nederkoorn - User Experience Designer for Web Startups" 
+markdown: kramdown
 
 rdiscount:
   extensions: []

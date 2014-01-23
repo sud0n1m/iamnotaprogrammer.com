@@ -77,5 +77,6 @@ DEPENDENCIES
   compass
   jekyll
   jekyll-sass
+  kramdown
   nokogiri
   s3_website
