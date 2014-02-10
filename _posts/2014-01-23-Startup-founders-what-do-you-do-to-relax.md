@@ -30,7 +30,7 @@ If you haven't got anything, here are a few series I've loved recently:
 
 ## Play a video game
 
-<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/alphacolin">@alphacolin</a> Gaming typically. I play about 15-30 min of Quake most nights just before bed (Q2 DM). Keeps me sharp!</p>&mdash; Chad Keck (@ckeck) <a href="https://twitter.com/ckeck/statuses/426123189651898369">January 22, 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a href="https://twitter.com/alphacolin">@alphacolin</a> Gaming typically. I play about 15-30 min of Quake most nights just before bed (Q2 DM). Keeps me sharp!</p>&mdash; Chad Keck (@ckeck) <a href="https://twitter.com/ckeck/statuses/426123189651898369">January 22, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I started gaming about a year ago and found that on the weekend, spending a day enveloped in a game was a great way to unwind. I'm not a "good" gamer, so serious FPS or MMORPG games don't really appeal. I want something more casual that doesn't need a lot of built up skill to play.
