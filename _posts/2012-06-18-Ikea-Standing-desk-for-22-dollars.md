@@ -12,7 +12,7 @@ All the options online are expensive. Until now.  [Ryan of Opani, our deskmate w
 
 ## Introducing The Standesk 2200
 
-![Standesk 2200 Feature](/images/standesk-2200-feature.jpg)
+![Standesk 2200 Feature](/images/standesk-2200-feature-new.jpg)
 
 It's a cheap solution made from Ikea parts for as low as $22. And you
 just put it on top of your existing desk.
