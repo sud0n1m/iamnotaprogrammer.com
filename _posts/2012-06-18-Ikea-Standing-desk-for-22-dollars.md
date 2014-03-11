@@ -8,7 +8,7 @@ I've been interested in standing desks for a while. I keep reading
 things like: [he who sits the
 most dies the
 soonest](http://www.theatlantic.com/health/archive/2012/04/confirmed-he-who-sits-the-most-dies-the-soonest/256101/).
-All the options online are expensive. Until now.  [Ryan of Opani, our deskmate who does amazing big data analytics](http://opani.com) and I combined our brains to see if we could come up with a better solution:
+All the options online are expensive. Until now.  [Ryan Witt from Decisive](http://decisive.is/) and I combined our brains to see if we could come up with a better solution:
 
 ## Introducing The Standesk 2200
 
@@ -21,9 +21,9 @@ just put it on top of your existing desk.
 
 Ergonomics are pretty simple. You want your set up to look like this:
 
-[![Standing desk ergonomics](https://img.skitch.com/20120619-qqtq8nf6agxxk29cg9bsih8biq.png)](http://www.tinkeringmonkey.com/site/do-your-back-a-favor-get-a-standing-desk/)
+[![Standing desk ergonomics](https://img.skitch.com/20120619-qqtq8nf6agxxk29cg9bsih8biq.png)](http://blog.tinkeringmonkey.com/do-your-back-a-favor-get-a-standing-desk/)
 
-[Go check out the full article on tinkering monkey](http://www.tinkeringmonkey.com/site/do-your-back-a-favor-get-a-standing-desk/). They even make standing desks.
+[Go check out the full article on tinkering monkey](http://blog.tinkeringmonkey.com/do-your-back-a-favor-get-a-standing-desk/). They even make standing desks.
 
 There are really 2 parts of this: *monitor height* and *keyboard height*.
 The key thing is: you don't want your monitor and keyboard to be on the same surface. You'll get neck cramps, or cut off blood circulation to your fingers.
@@ -68,14 +68,7 @@ Wegener](http://twitter.com/jwegener).
 
 ## Who's using this design?
 
-A few people so far:
-
-* Colin & John from [Customer.io](http://customer.io)
-* Ryan from [Opani](http://opani.com)
-* Joel & Matt from [Acquaintable](http://acquaintable.com)
-* Saikat from [Stripe](http://stripe.com)
-
-If you end up building it, let me know in the comments.
+Hundreds and hundreds of people have posted their build pictures on twitter, in the comments, and online. If you build it please share your pics!
 
 ## The deluxe
 
@@ -84,14 +77,8 @@ area for your monitor. This option gives you space for a laptop stand.
 
 Also consider the [Dioder LED set](http://www.ikea.com/us/en/catalog/products/50192365/) ($39.99) to add some color to your desk. It gives it that lowrider feel. Though be wary, that *the LED lights are more expensive than the entire standing desk*.
 
-## In summary
-
-This is a phenomenal desk setup. After Ryan and I figured this out,
-there are 4 other people who have bought the parts to make their own
-desks. 
+## What about you?
 
 Have you built an amazing standing desk? Email me colin at customer dot
 io, or add it in the comments here. I want to see it. Have you made
 improvements on this design? Let me know too.
-
-
