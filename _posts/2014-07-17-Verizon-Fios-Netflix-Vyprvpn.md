@@ -12,15 +12,17 @@ The summarized version is that basically Netflix is slow because Verizon refuses
 
 I wasn't sure how to test my Netflix speed. After a bit of googling I found an article by Wired [on how to test your Netflix streaming speed](http://www.wired.com/2014/06/netflix-streaming-test/). I followed their steps and I was shocked.
 
+The video on netflix actually shows you how fast it is streaming to you which is helpful for ddiagnostics. 
+
 [Here's the test video on Netflix for quick reference](http://www.netflix.com/WiMovie/70136810)
 
-Keep in mind, I pay Verizon for 75 mbps down, 25 mbps up on my Fios connection. 
+Keep in mind, I pay Verizon for 75 mbps down, 35 mbps up on my Fios connection. 
 
-This Netflix video streams at 375 kbps at the fastest. I was shocked. Then I decided to try connecting to a VPN service to compare. 
+This Netflix video streams at 375 kbps (or 0.375 mbps -- 0.5% of the speed I pay for) at the fastest. I was shocked. Then I decided to try connecting to a VPN service to compare. 
 
 ## Can a VPN make streaming Netflix faster?
 
-My hypothesis here was that by connecting to a VPN, my traffic might end up getting routed through uncongested tubes. Basically, if Verizon is not upgrading the tubes that go to "Netflix", maybe I can connect to a different location first where Verizon will have good performance and there will be no congestion on the tubes.
+My hypothesis here was that by connecting to a VPN, my traffic might end up getting routed through uncongested tubes. Basically, if Verizon is not upgrading the tubes that go to Netflix, maybe I can connect to a different location (via VPN) first where Verizon will have good performance and there will be no congestion between location 2 and and Netflix.
 
 Was I successful?
 
@@ -50,10 +52,34 @@ After updating the router, you'll now have a screen where you can connect to a V
 
 ![Asus Router Config](/images/Asus-Router-Openvpn-Config.png)
 
-Your router might be different, and there's also [Tomato](http://www.polarcloud.com/tomato) and [DD-WRT](http://www.dd-wrt.com/) as alternative firmware.
+If you're using VyprVPN, you can [grab an OVPN file](https://www.goldenfrog.com/support/vyprvpn/vpn-setup/ipad/openvpn-connect) for a server near you and upload it to the router where it says "Import ovpn file". 
+
+If you have a different router, there's also [Tomato](http://www.polarcloud.com/tomato) and [DD-WRT](http://www.dd-wrt.com/) as alternative firmware.
 
 ## Problem solved
 
 So in the space of about an hour, I got furious at Verizon, found a way around the problem, and then fixed it for good (for my household).
 
 Nothing quite motivates me like when something shouldn't be the way that it is.
+
+## Updated with more tests 
+
+Some people mentioned that 3000 kbps wasn't the max for Netflix. That's a limitation with Netflix on a Mac. Since I now have all traffic going through a VPN, it was easy to test on other devices.
+
+### On a Roku
+
+Here's the test video loaded on my Roku. Even the cat likes things better at 5800 kbps:
+
+![The netflix test on a roku](http://fast.customer.io/s/5800-kbps-netflix-on-roku-vpn.jpg)
+
+### On a Windows 8 PC running the Netflix App
+
+Same test on my Windows 8 box running the Netflix App. 
+
+![Netflix test on a pc](http://fast.customer.io/s/Netflix-Windows-8-verizon-vpn.jpg)
+
+## Your turn:
+
+Netflix subscribers: [What happens when you do the Netflix test?](http://www.netflix.com/WiMovie/70136810). Do you max out at 3000 / 5800 kbps? Or struggle to even play the video? 
+
+I'd love to know in the comments. 
