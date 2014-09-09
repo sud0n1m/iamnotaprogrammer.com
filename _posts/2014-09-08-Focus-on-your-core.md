@@ -47,6 +47,8 @@ As a result of all of the above, we ended up abandoning the integrations. We sto
 
 After this experience, there have been a couple of other times where we’ve overextended and had to pull back. 
 
-A good rule of thumb when evaluating new initiatives is if you’re not willing to commit someones time to the project every day, then you shouldn’t be doing it.
+A good rule of thumb when evaluating new initiatives is:
+
+**If you’re not willing to commit someones time to the project every day, then you shouldn’t be doing it.**
 
 As our team gets bigger and our product gets more mature, I’d love to circle back to some of the initiatives that we were too early for, but this time I’ll be dedicating people to making them successful. Until then, we’ll focus on our core. 
