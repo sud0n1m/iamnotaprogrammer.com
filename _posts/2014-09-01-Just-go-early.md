@@ -12,10 +12,12 @@ When we returned around noon, it was a mob scene. People were everywhere, all th
 
 We live in a crowded world, and it's only getting more crowded. But there's a simple solution. If you can adjust your schedule to just go *a little bit early*, you no longer have to wait.
 
+Here are a few things I have experimented with:
+
 - Take early morning flights out of New York to avoid sitting in traffic to the airport
 - Go grab lunch at 11:45 before you have to wait in a line to order and then stand around for your food (you don't have to eat it yet)
 - Shift your work schedule to start early and leave early. Try working New York hours from the West Coast.
 - Go to the supermarket at 4pm (since you left work early)
 - Go to the gym during lunch or in mid afternoon.
 
-You can't choose when other people do things, but you can choose when you do things. Shifting to less crowded time means you can get more done and live a less-frustrating life.
+Remember: you can't choose when other people do things, but you can choose when you do things. Shifting activities to less crowded times of day means you can get more done, deal with congestion in your life a lot less.
