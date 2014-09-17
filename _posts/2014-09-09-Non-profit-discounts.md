@@ -18,6 +18,4 @@ A lot of our thinking on this was inspired by a wonderful post by Jason Fried fr
 
 I'm not sure I can articluate it better than Jason does.
 
-I'd lump accelerator discounts in this category too. We dabbled early on but we've phased these out. 
-
 I want to be able to look every customer in the eye and tell them they're getting the best price we offer for their level of service. It's challenging, but it's something we're sticking by for better or worse.
