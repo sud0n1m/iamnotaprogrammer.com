@@ -8,11 +8,10 @@
 
 /* line 7, ../sass/style.scss */
 .container {
-  width: 960px;
   margin: 0px auto;
   zoom: 1;
 }
-/* line 18, ../sass/bourbon/addons/_clearfix.scss */
+/* line 17, ../sass/bourbon/addons/_clearfix.scss */
 .container:before, .container:after {
   content: "";
   display: table;
@@ -22,107 +21,108 @@
   clear: both;
 }
 
-/* line 15, ../sass/style.scss */
+/* line 14, ../sass/style.scss */
 a {
-  color: #479d97;
+  color: blue;
 }
 
-/* line 18, ../sass/style.scss */
+/* line 17, ../sass/style.scss */
 a:hover, a:visited {
-  color: #275753;
+  color: #000099;
 }
 
-/* line 22, ../sass/style.scss */
+/* line 21, ../sass/style.scss */
 ul {
   list-style-type: circle;
 }
 
-/* line 26, ../sass/style.scss */
+/* line 25, ../sass/style.scss */
 ul li {
   margin-bottom: 10px;
 }
 
-/* line 30, ../sass/style.scss */
+/* line 29, ../sass/style.scss */
 body {
-  font-family: "ff-tisa-web-pro", "Georgia", serif;
-  font-size: 16px;
-  line-height: 22.4px;
+  font-family: "Crimson Text", "Georgia", serif;
+  font-size: 19px;
+  line-height: 26.6px;
   margin: 0;
+  font-weight: 100;
 }
 
 /* line 38, ../sass/style.scss */
 h1, h2, h3, h4, h5 {
-  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
   margin-top: 0;
+  color: rgba(0, 0, 0, 0.8);
 }
 
-/* line 44, ../sass/style.scss */
+/* line 45, ../sass/style.scss */
 h1 {
-  font-size: 38.4px;
-  line-height: 44.8px;
+  font-size: 64.6px;
+  line-height: 72.2px;
 }
 
-/* line 50, ../sass/style.scss */
+/* line 51, ../sass/style.scss */
 p {
-  font-family: "ff-tisa-web-pro", "Georgia", serif;
+  font-family: "Crimson Text", "Georgia", serif;
 }
 
-/* line 55, ../sass/style.scss */
+/* line 56, ../sass/style.scss */
 header {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   padding: 20px 0 20px 0;
-  background-color: #b9e3e3;
+  background-color: white;
 }
-/* line 60, ../sass/style.scss */
+/* line 61, ../sass/style.scss */
 header h2 {
   font-size: 20px;
-  margin: 0;
+  margin: 0 20px;
 }
-/* line 65, ../sass/style.scss */
+/* line 66, ../sass/style.scss */
 header h2 a, header h2 a:hover, header h2 a:visited {
   text-decoration: none;
 }
-/* line 68, ../sass/style.scss */
+/* line 69, ../sass/style.scss */
 header h2 a, header h2 a:visited {
-  color: #8dadad;
+  color: blue;
 }
-/* line 71, ../sass/style.scss */
+/* line 72, ../sass/style.scss */
 header h2 a:hover {
-  color: #597b7b;
+  color: #000099;
 }
 
-/* line 78, ../sass/style.scss */
+/* line 79, ../sass/style.scss */
 section#sidebar {
   margin-top: 20px;
   width: 222px;
   float: left;
 }
 
-/* line 84, ../sass/style.scss */
+/* line 85, ../sass/style.scss */
 section#content {
+  margin: auto;
   width: 714px;
-  float: left;
-  margin-right: 23px;
-  border-right: 1px solid rgba(0, 0, 0, 0.1);
-  padding: 40px 40px 40px 0px;
+  padding: 40px 40px 40px 40px;
 }
-/* line 92, ../sass/style.scss */
+/* line 91, ../sass/style.scss */
 section#content img {
-  max-width: 668px;
-  border: 2px solid #b9e3e3;
+  max-width: 100%;
+  display: block;
+  margin: auto;
 }
-/* line 97, ../sass/style.scss */
+/* line 98, ../sass/style.scss */
 section#content article p {
   margin: 25px 0;
   font-size: 100%;
   line-height: 1.6em;
 }
-/* line 103, ../sass/style.scss */
+/* line 104, ../sass/style.scss */
 section#content h2 {
-  line-height: 35.2px;
+  line-height: 41.8px;
 }
-/* line 108, ../sass/style.scss */
+/* line 109, ../sass/style.scss */
 section#content h3 {
   font-weight: 400;
   color: rgba(0, 0, 0, 0.4);
@@ -130,43 +130,43 @@ section#content h3 {
   letter-spacing: 1px;
   text-transform: uppercase;
 }
-/* line 116, ../sass/style.scss */
+/* line 117, ../sass/style.scss */
 section#content .posts {
   list-style: none;
   margin: 0;
 }
-/* line 120, ../sass/style.scss */
+/* line 121, ../sass/style.scss */
 section#content .posts span {
   color: rgba(0, 0, 0, 0.4);
   font-style: italic;
   width: 17%;
   display: inline-block;
 }
-/* line 128, ../sass/style.scss */
+/* line 129, ../sass/style.scss */
 section#content #related {
   margin-top: 20px;
-  background-color: #ddf2f2;
+  background-color: #d9ae44;
   padding: 20px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
 }
-/* line 135, ../sass/style.scss */
+/* line 136, ../sass/style.scss */
 section#content #disqus_thread {
   margin-top: 20px;
 }
 
-/* line 141, ../sass/style.scss */
+/* line 142, ../sass/style.scss */
 footer {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   padding: 20px 0 20px 0;
 }
-/* line 145, ../sass/style.scss */
+/* line 146, ../sass/style.scss */
 footer ul {
   list-style: none;
   margin: 0;
 }
-/* line 150, ../sass/style.scss */
+/* line 151, ../sass/style.scss */
 footer li {
   display: inline-block;
   padding-right: 20px;
