@@ -2,22 +2,26 @@
 layout: default
 title: Colin Nederkoorn
 ---
+<section class="about">
+  <div class="pic">
+    <img src="http://customer.io/img/Colin-N-20cdb44d.jpg">
+  </div>
+  <div class="bio">
+    <p>Hi, I'm Colin Nederkoorn co-founder and CEO of <a href="http://customer.io">Customer.io</a>.
+    </p>
+    <p>You'll see articles below for people interested in startups and tech.</p>
+    <p>Feel free to reach out to me on twitter: <a href="http://twitter.com/alphacolin">@alphacolin</a></p>
+  </div>
+</section>
 
-<h2>Blog Posts</h2>
 <ul class="posts">
 	{% for post in site.posts %}
-  		<li><span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+  <a class="post-item-link" href="{{ post.url }}">
+    <div>
+    <li class="post-item"><h4 class="post-title">{{ post.title }}</h4>
+    <p>{{ post.description }}</p>
+    </li>
+    </div>
+  </a>
 	{% endfor %}
-</ul>
-<br/>
-<h2>Projects</h2>
-<ul class="posts">
-	<li><a href="http://customer.io">Customer.io</a> - Email management for web and mobile apps</li>
-	<li><a href="keynote-ux/">Keynote UX</a> - Free user experience stencils for Apple Keynote</li>
-	<li><a href="http://cust.io/101-investors">101 New York Investors</a> - Angels, Seed and Early Stage VCs with Angel List Profiles</li>
-	<li>Dopplecast - A free daily tweet with your weather (no longer running)</li>
-	<li><a href="bike-across-the-us.html">Bike Across The US</a> - A site tracking my progress biking across the US with help from twitter, flickr, fireeagle and brightkite</li>
-	<li><a href="https://github.com/sud0n1m/celsius-to-fahrenheit-ios5">Converter2</a> - A celsius to fahrenheit demo app on iOS 5
-	<li><a href="design-questions/">Design Questions</a> - Flashcards of questions to ask when reviewing a design
-
 </ul>

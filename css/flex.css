@@ -1,0 +1,239 @@
+/* line 18, ../sass/flex.scss */
+html {
+  font-size: 18px;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+}
+
+/* line 26, ../sass/flex.scss */
+a {
+  color: deepskyblue;
+  transition: 0.2s;
+}
+
+/* line 30, ../sass/flex.scss */
+a:hover, a:visited {
+  color: #007399;
+}
+
+/* line 34, ../sass/flex.scss */
+ul {
+  list-style-type: disc;
+  margin: 0 0 1.5em;
+}
+
+/* line 38, ../sass/flex.scss */
+li {
+  margin: 0 0 0.8em;
+}
+
+/* line 44, ../sass/flex.scss */
+body {
+  font-family: "Crimson Text", "Georgia", serif;
+  margin: 0;
+  font-weight: 100;
+  color: #4a4235;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* line 52, ../sass/flex.scss */
+h1, h2, h3, h4, h5 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  margin: 0 0 20px 0;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+/* line 59, ../sass/flex.scss */
+h1 {
+  font-size: 2.2rem;
+  line-height: 2.4rem;
+}
+
+/* line 65, ../sass/flex.scss */
+p {
+  font-family: "Crimson Text", "Georgia", serif;
+}
+
+/* line 71, ../sass/flex.scss */
+.wrapper {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+}
+
+/* line 83, ../sass/flex.scss */
+.wrapper > * {
+  flex: 1 100%;
+}
+
+/* line 90, ../sass/flex.scss */
+.footer {
+  max-width: 800px;
+  margin: auto;
+}
+
+/* line 95, ../sass/flex.scss */
+.container {
+  text-align: left;
+}
+
+/* line 99, ../sass/flex.scss */
+.blog-content {
+  padding-top: 10px;
+}
+
+/* line 106, ../sass/flex.scss */
+.header {
+  border-bottom: 1px solid #dfdad2;
+  padding: 10px 0px;
+  margin: 0px 20px;
+  text-align: center;
+}
+
+/* line 112, ../sass/flex.scss */
+.blog-title {
+  font-size: 1.0rem;
+  font-weight: 400;
+  margin-bottom: 0;
+  text-align: left;
+}
+/* line 117, ../sass/flex.scss */
+.blog-title a {
+  text-decoration: none;
+  color: #4a4235;
+  opacity: 0.6;
+}
+/* line 121, ../sass/flex.scss */
+.blog-title a:hover {
+  opacity: 1.0;
+}
+
+/* line 127, ../sass/flex.scss */
+.about {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  border-bottom: 1px solid #dfdad2;
+}
+/* line 132, ../sass/flex.scss */
+.about .pic {
+  order: 2;
+}
+/* line 134, ../sass/flex.scss */
+.about .pic img {
+  max-width: 100%;
+  max-height: 200px;
+}
+/* line 139, ../sass/flex.scss */
+.about .bio {
+  order: 1;
+  font-style: italic;
+  padding-right: 10px;
+}
+
+/* line 149, ../sass/flex.scss */
+ul.posts {
+  padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+/* line 155, ../sass/flex.scss */
+ul.posts a.post-item-link {
+  min-height: 120px;
+  width: 100%;
+  border-bottom: 1px solid #dfdad2;
+  text-decoration: none;
+  color: #4a4235;
+}
+/* line 164, ../sass/flex.scss */
+ul.posts .post-item {
+  padding: 1.5em 0;
+}
+/* line 166, ../sass/flex.scss */
+ul.posts .post-item p {
+  margin-top: 0;
+}
+/* line 170, ../sass/flex.scss */
+ul.posts .post-title {
+  font-size: 1.5em;
+  font-weight: 400;
+  line-height: 1.3;
+  margin-bottom: 0.25em;
+}
+
+/* line 181, ../sass/flex.scss */
+.blog-content {
+  padding: 20px;
+  letter-spacing: 0.01rem;
+}
+
+/* line 187, ../sass/flex.scss */
+article.post img, .blog-content img {
+  max-width: 100%;
+}
+/* line 190, ../sass/flex.scss */
+article.post hr, .blog-content hr {
+  width: 60px;
+  margin: 20px auto 30px auto;
+  border: 0;
+  border-top: 1px solid #b4a997;
+}
+/* line 197, ../sass/flex.scss */
+article.post h2, .blog-content h2 {
+  line-height: 1.15;
+  margin: 1.5em 0 .5em;
+}
+/* line 202, ../sass/flex.scss */
+article.post p, .blog-content p {
+  margin: 0 0 1.5em;
+}
+/* line 205, ../sass/flex.scss */
+article.post a, .blog-content a {
+  border-bottom: 2px solid #e1e1e1;
+  text-decoration: none;
+  color: #4a4235;
+}
+/* line 209, ../sass/flex.scss */
+article.post a:hover, .blog-content a:hover {
+  border-bottom: 2px solid deepskyblue;
+}
+/* line 213, ../sass/flex.scss */
+article.post blockquote, .blog-content blockquote {
+  border-left: 3px solid #857760;
+  font-style: italic;
+  margin: 0 0 30px -20px;
+  padding-left: 17px;
+  padding-bottom: 3px;
+  line-height: 1.6;
+}
+/* line 220, ../sass/flex.scss */
+article.post blockquote p, .blog-content blockquote p {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 233, ../sass/flex.scss */
+.footer-links {
+  border-top: 2px solid #dfdad2;
+  display: flex;
+  margin: 10px 0;
+  padding: 10px 20px;
+  justify-content: space-between;
+  list-style-type: none;
+}
+/* line 241, ../sass/flex.scss */
+.footer-links li a {
+  color: #4a4235;
+  text-decoration: none;
+  opacity: 0.6;
+}
+/* line 245, ../sass/flex.scss */
+.footer-links li a:hover {
+  opacity: 1.0;
+}

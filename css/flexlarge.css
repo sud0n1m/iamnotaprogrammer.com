@@ -1,0 +1,17 @@
+/* line 3, ../sass/flexlarge.scss */
+h1 {
+  font-size: 3rem;
+  line-height: 3.6rem;
+}
+
+/* line 8, ../sass/flexlarge.scss */
+.blog-content {
+  max-width: 800px;
+  margin: auto;
+}
+
+/* line 13, ../sass/flexlarge.scss */
+body {
+  font-size: 1.2em;
+  line-height: 1.4em;
+}

@@ -8,14 +8,6 @@ layout: default
 	
 </article>
 
-<div id="related">
-  <h3>Related Posts</h3>
-  <ul class="posts">
-    {% for post in site.related_posts limit:3 %}
-      <li><span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
-			{% endfor %}
-
-  </ul>
-</div>
-
-{% include comments.html %}
+<section class="comments">
+  {% include comments.html %}
+</section>

@@ -4,42 +4,48 @@
 	<meta charset="utf-8">
 
 	<title>{{ page.title }}</title>
-	
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 	<meta name="author" content="Colin Nederkoorn" />
 	<link rel="author" href="https://plus.google.com/103473970185401613274">
    
    
    	<link href="http://iamnotaprogrammer.com/atom.xml" rel="alternate" title="Colin Nederkoorn" type="application/atom+xml" />
 
-   	<link rel="stylesheet" href="/css/style.css" type="text/css" />
-    <link href='http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic|Roboto+Condensed:700' rel='stylesheet' type='text/css'>
+   	<link rel="stylesheet" href="/css/flex.css" type="text/css" media="screen, handheld" />
+    <link rel="stylesheet" href="/css/flexlarge.css" type="text/css" media="screen  and (min-width: 40.5em)" />
+    <!--[if (lt IE 9)&(!IEMobile)]>
+    <link rel="stylesheet" type="text/css" href="/css/flexlarge.css" />
+    <![endif]-->
+    
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
 
 </head>
 <body lang="en">
-  
-	<header>
-		<div class="container">
-			<h2><a href="/">Colin Nederkoorn's Blog</a></h2>
-		</div>
-	</header>
+ 
+  <div class="wrapper">
+    <header class="header">
+        <h2 class="blog-title"><a href="/">Colin Nederkoorn</a></h2>
+    </header>
 
-	<div class="container">
-  
-		<section id="content">
-			{{ content }}
-		</section>
+    <div class="container">
+    
+      <section class="blog-content">
+        {{ content }}
+      </section>
 
-	</div>
+    </div>
 
-	
-	<footer>
-		<ul>
-			<li><a href="/about.html">About</a></li>
-			<li><a href="http://twitter.com/alphacolin">Twitter</a></li>
-			<li><a href="http://iamnotaprogrammer.com/atom.xml">RSS</a></li>
-			<li><a href="http://customer.io">Send better emails</a></li>
-		</ul>		
-	</footer>
+    
+    <footer class="footer">
+      <ul class="footer-links">
+        <li><h5><a href="/">Home</a></h5></li>
+        <li><h5><a href="http://twitter.com/alphacolin">Twitter</a></h5></li>
+        <li><h5><a href="http://iamnotaprogrammer.com/atom.xml">RSS</a></h5></li>
+        <li><h5><a href="http://customer.io">Send better emails</a></h5></li>
+      </ul>		
+    </footer>
+  </div>
 
  {% include analytics.html %}
 
