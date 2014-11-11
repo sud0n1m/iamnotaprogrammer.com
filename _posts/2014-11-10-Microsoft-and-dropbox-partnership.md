@@ -12,29 +12,33 @@ Google has had a long-term strategy to commoditize Microsoft Office in businesse
 
 Google's trojan horse in to business has been email. The Gmail search experience changed the way people deal with their email inboxes. No more deleting. Many small businesses have switched to Google Apps for the email experience alone. As new employees get added, does it make sense to spend $100+ per seat for Microsoft Office when Google Apps is good enough for most employees? A lot of companies are saying no.
 
-Enter Office 365: Microsoft's subscription service competitor to Google Apps starts at as low as $5.00 per month -- equal to the Google Apps price. But to be fair, if you're going to Full Microsoft, [Office 365 Premium gives you the desktop versions of Office](http://products.office.com/en-us/business/office-365-business-premium) for $12.50 per month.
+Enter Office 365: Microsoft's subscription service competitor to Google Apps starts at as low as $5.00 per month -- equal to the Google Apps price. But to be fair, if you're going to go Full Microsoft, [Office 365 Premium gives you the desktop versions of Office](http://products.office.com/en-us/business/office-365-business-premium) for $12.50 per month.
 
 ![Office 365 Pricing](http://fast.customer.io/t/Office-365-Business.png)
 
-However, a lot of businesses purchased standalone Microsoft licenses. Those people are not on a subscription to Office 365 which is where the free iOS and Android apps + Dropbox integration come in. I purchased Office 2011 (the latest version for OS X) a few years ago. There's low incentive for me to buy an Office 365 subscription but it is handy to be able to load word or excel docs on the iPad. Most of these are stored in Dropbox. Prior to the integration I have no idea how I would have opened them.
+Over the years, a lot of businesses have purchased standalone Microsoft Office licenses. Those people are not on a subscription to Office 365. That's where the free iOS and Android apps + Dropbox integration come in. I purchased Office 2011 (the latest version for OS X) a few years ago. There's low incentive for me to buy an Office 365 subscription but it is handy to be able to load word or excel docs on the iPad. Most of these are stored in Dropbox. 
 
-Win for Microsoft.
+![Excel for iPad now with dropbox](http://fast.customer.io/t/Excel-for-ipad-dropbox.png)
+
+Prior to the Dropbox integration, how would I even get those files on to the iPad?
 
 ## Dropbox vs. Google
 
-What about Dropbox and Google. You hear less about those two companies together than about Google or Microsoft or Google and Apple. Google's pricing for storage recently got a lot more aggressive:
+What about Dropbox and Google. You hear less about those two companies together than about Google or Microsoft or Google and Apple. Google's pricing for storage recently became more aggressive:
 
 ![Google Apps Pricing](http://fast.customer.io/t/Google-Apps-Pricing.png)
 
-As a Google Apps customer, you can get email + office suite + unlimited storage for $10 per user per month. Dropbox has a $9.99 1tb consumer plan or a "[Dropbox for Business](https://www.dropbox.com/business/buy)" plan for $15 per user per month @ 10 users. There's a vague "5tb for 5 users with more as your team grows". We've tried Dropbox for Business for our company and ended up canceling. The value wasn't there for teams over the individual accounts but a couple of us pay for those. 
+As a Google Apps customer, you can get email + office suite + unlimited storage for $10 per user per month. Dropbox has a $9.99 1tb consumer plan or a "[Dropbox for Business](https://www.dropbox.com/business/buy)" plan for $15 per user per month @ 10 users. There's a vague "5tb for 5 users with more as your team grows". We've tried Dropbox for Business for our company and ended up canceling. The value wasn't there for teams relative to the individual accounts almost all team members have & a couple of us pay for those.
 
-For Dropbox to generate a successful return for investors, I'm quite confident, they're betting they can make the "Enterprise" work and sell higher volume and higher price plans. 
+For Dropbox to generate a successful return for investors, I'm quite confident, they're betting they can make the "Enterprise" work and sell company-wide plans at larger businesses. 
 
-For businesses already on Google Apps, it's now that much harder for Dropbox to sell company-wide plans for storage since you can add $5 per user a month to get unlimited storage. 
+For businesses already on Google Apps, it's now that much harder for Dropbox to sell company-wide plans for storage since you can add $5 per user a month to get unlimited storage from Google.  
 
-The economics of what exactly the price is get murky with Google (as usual). What's the true cost of a $10 a month, Google Apps account with unlimited storage? Is Google losing money here to further another goal? 
+The difference between the **price** of service and the **cost** is where things get murky with Google (as usual). Is Google losing money here to further another goal? Do they want all businesses putting their data in Google? And doing their searches in google? And storing their email with Google? 
 
-Dropbox on the other hand is relatively straightforward. You pay Dropbox to store and sync your data.
+Dropbox on the other hand is relatively straightforward: you pay Dropbox to store and sync your data.
+
+If you can't tell already, I'm dubious of Google's offer of unlimited storage. I think you're trading something for it. I'm not sure what. 
 
 ## How do Microsoft and Dropbox compete with Google?
 
@@ -50,4 +54,4 @@ So Microsoft wasn't a market leader on mobile or cloud storage but kudos to them
 
 *How the heck do you get your Word docs and Excel files on to your iPad? What the heck is Microsoft OneDrive?*
 
-Dropbox integration in to Office on mobile combined with free editing of Microsoft files helps more people stay with both products. Is it just a band-aid though? Google is coming. I'd love to see Dropbox and Microsoft able to compete by directly charging people for the service they provide. Can *pure* business models exist in markets where Google wants to compete? What do you think?
+Dropbox integration in to Office for mobile combined with free editing of Microsoft Office files helps more people stay with both products. Is this partnership just a band-aid though? Google is coming. I'd love to see Dropbox and Microsoft able to compete by directly charging people for the service they provide. Can *pure* business models even exist in markets where Google wants to compete? What do you think?
