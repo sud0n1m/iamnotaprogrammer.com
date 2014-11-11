@@ -6,8 +6,8 @@ permalink:   /:title.html
 
 base_url: http://iamnotaprogrammer.com
 #base_url: /
-description: "New York Based User Experience Designer for Web Startups"
-root_desc: "Colin Nederkoorn - User Experience Designer for Web Startups" 
+description: "CEO of Customer.io based in Portland, Oregon"
+root_desc: "Colin Nederkoorn" 
 markdown: rdiscount
 highlighter: true 
 
