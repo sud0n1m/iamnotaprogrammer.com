@@ -2,8 +2,10 @@
 
 # Root
 
-RewriteCond %{HTTP_HOST} ^www\.iamnotaprogrammer\.com [NC]
-RewriteRule ^(.*)$ http://iamnotaprogrammer.com/$1 [L,R=301]
+
+# Temporarily comment this out
+# RewriteCond %{HTTP_HOST} ^www\.iamnotaprogrammer\.com [NC]
+# RewriteRule ^(.*)$ http://iamnotaprogrammer.com/$1 [L,R=301]
 
 
 # Pages
