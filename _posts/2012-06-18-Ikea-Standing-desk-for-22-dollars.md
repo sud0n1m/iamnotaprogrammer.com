@@ -21,9 +21,7 @@ just put it on top of your existing desk.
 
 Ergonomics are pretty simple. You want your set up to look like this:
 
-[![Standing desk ergonomics](https://img.skitch.com/20120619-qqtq8nf6agxxk29cg9bsih8biq.png)](http://blog.tinkeringmonkey.com/do-your-back-a-favor-get-a-standing-desk/)
-
-[Go check out the full article on tinkering monkey](http://blog.tinkeringmonkey.com/do-your-back-a-favor-get-a-standing-desk/). They even make standing desks.
+![Standing desk ergonomics](/images/standing-desk-ergonomics.jpg)
 
 There are really 2 parts of this: *monitor height* and *keyboard height*.
 The key thing is: you don't want your monitor and keyboard to be on the same surface. You'll get neck cramps, or cut off blood circulation to your fingers.
@@ -61,7 +59,7 @@ to).
 
 ## Assembly Instructions
 
-[![Standesk Assembly Instructions](https://img.skitch.com/20120620-d62cqnaggds35ww5du4hurhuef.png)](http://iamnotaprogrammer.com/Standesk_2200_Assembly_Instructions.pdf)
+[![Standesk Assembly Instructions](/images/standesk-instructions.png)](http://iamnotaprogrammer.com/Standesk_2200_Assembly_Instructions.pdf)
 
 As requested by [Jonathan
 Wegener](http://twitter.com/jwegener).
