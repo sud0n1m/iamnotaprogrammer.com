@@ -1,9 +1,10 @@
 ---
-title: "Three months of a remote team"
-description: ""
-published: true
+title: Three months of a remote team
+date: 2014-04-14 00:00:00 Z
+description: ''
 layout: post
 ---
+
 On January 1st, 2014, Diana was our first remote hire. She is based in Vancouver, WA and had been working with us on a trial for a month already. The first time we met in person was mid-December when she came to New York. 
 
 On January 1st, 2014, John, my CTO and co-founder left New York City and has been traveling the world since. We had the opportunity to get the whole team together in Barcelona for a week and it was a great time to reflect and adjust our strategy.

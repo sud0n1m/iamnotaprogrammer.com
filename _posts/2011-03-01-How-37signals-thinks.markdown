@@ -1,6 +1,7 @@
 ---
+title: How 37Signals Thinks
+date: 2011-03-01 00:00:00 Z
 layout: post
-title: "How 37Signals Thinks"
 ---
 
 ![Basecamp Mobile startup sequence -> Icon, Loading, Project List](/images/Basecamp-Mobile.jpg "Basecamp Mobile Screens")

@@ -1,9 +1,10 @@
 ---
-title: "The Blue Quesadilla Lady"
-description: "In search of the blue quesadilla lady from Anthony Bourdain's No Reservations"
-published: true
+title: The Blue Quesadilla Lady
+date: 2014-09-18 00:00:00 Z
+description: In search of the blue quesadilla lady from Anthony Bourdain's No Reservations
 layout: post
 ---
+
 I've been thinking about these blue quesadillas on and off for about 3 years. I watched an episode of "No Reservations" where Anthony Bourdain goes to Mexico City. 
 
 In one of the segments on the show, he eats a quesadilla made by a woman named "Doña Anastasia". The tortilla is made fresh on the spot. The fact that it was a blue corn tortilla is probably what made it so memorable. But like I said, I've been thinking about it on and off for 3 years. In my head is a mental list of food I've seen (usually on an Anthony Bourdain show) that I want to try. 

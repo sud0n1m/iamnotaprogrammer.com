@@ -1,9 +1,10 @@
 ---
-title: "Power dynamics when raising capital"
-description: "Things you need to know about dealing with investors"
-published: true
+title: Power dynamics when raising capital
+date: 2014-08-24 00:00:00 Z
+description: Things you need to know about dealing with investors
 layout: post
 ---
+
 If it's your first time raising startup capital, it's easy to feel like you're in the deep end. Most commonly, the game feels like it is weighted in the investors favor. I wanted to share a few lessons I learned raising capital and talking to investors.
 
 ## 1. There is more capital than there are good deals. 

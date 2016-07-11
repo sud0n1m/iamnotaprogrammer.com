@@ -1,7 +1,9 @@
 ---
+title: On competition and hurricanes
+date: 2012-10-29 00:00:00 Z
 layout: post
-title: "On competition and hurricanes"
 ---
+
 I love competition. Competition raises your game. Competition educates people about the problem you solve. Competition shows you different ways to build a business. Competition helps you to understand how well you're doing.
 
 Since we started Customer.io we've been under constant pressure from competitors. Here's an overview of our competitive landscape.

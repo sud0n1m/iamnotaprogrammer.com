@@ -1,6 +1,6 @@
 ---
 title: Muscle Memory
-published: true
+date: 2012-05-07 00:00:00 Z
 layout: post
 ---
 

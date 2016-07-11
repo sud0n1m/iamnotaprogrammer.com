@@ -1,6 +1,7 @@
 ---
+title: One reason gmail 2.0 on iOS still sucks
+date: 2012-12-04 00:00:00 Z
 layout: post
-title: "One reason gmail 2.0 on iOS still sucks"
 ---
 
 You probably downloaded the new Gmail client for iOS with high hopes today. So did I. But as a recipient of email, and professional who works in the email space, one thing totally ruins the app.

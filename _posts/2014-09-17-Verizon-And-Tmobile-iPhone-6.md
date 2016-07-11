@@ -1,9 +1,10 @@
 ---
-title: "The best cell coverage domestically + sim swapping with t-mobile"
-description: "Having both Verizon + Tmobile is the best of both worlds"
-published: true
+title: The best cell coverage domestically + sim swapping with t-mobile
+date: 2014-09-17 00:00:00 Z
+description: Having both Verizon + Tmobile is the best of both worlds
 layout: post
 ---
+
 ![Brooklyn to Portland by car](http://fast.customer.io/s/Brooklyn-Portland.png)
 
 In August, my fiancee and I drove from New York to Oregon, clear across the United States. 

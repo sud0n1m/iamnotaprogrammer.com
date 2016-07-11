@@ -1,3 +1,8 @@
+---
+title: Ultimate Ergonomic Sit Stand Standing Desk Setup
+date: 2014-11-29 00:00:00 Z
+---
+
 
 A couple of years ago, my friend Ryan and I figured out an inexpensive Ikea solution to try out standing. 2 years later, thousands of people have built the desk and it has been featured by Wired, the New York Times and many other places.
 

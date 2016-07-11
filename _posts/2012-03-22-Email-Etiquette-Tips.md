@@ -1,6 +1,7 @@
 ---
+title: Email tips for introducing people and scheduling meetings
+date: 2012-03-22 00:00:00 Z
 layout: post
-title: "Email tips for introducing people and scheduling meetings"
 ---
 
 Over the past couple of months, I've introduced and been introduced to a

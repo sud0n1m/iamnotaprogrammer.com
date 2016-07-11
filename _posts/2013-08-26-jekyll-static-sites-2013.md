@@ -1,8 +1,9 @@
 ---
 title: The State of Static Sites in 2013
-published: true
+date: 2013-08-26 00:00:00 Z
 layout: post
 ---
+
 I've been a grateful user and big proponent of static site generators for the past few years.
 
 My process has changed significantly over time. From doing things like writing custom deploy scripts, to manually uploading files via ftp. At one point in a previous company we had Jenkins generate and deploy the static site with a post-commits hook from git. 

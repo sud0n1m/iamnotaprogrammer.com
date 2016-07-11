@@ -1,9 +1,11 @@
 ---
-title: "The battle for your files"
-description: "Dropbox and Microsoft join forces to push Google back while Apple does something else"
-published: true
+title: The battle for your files
+date: 2014-11-10 00:00:00 Z
+description: Dropbox and Microsoft join forces to push Google back while Apple does
+  something else
 layout: post
 ---
+
 Microsoft & Dropbox [announced Dropbox integration in the mobile Microsoft Office apps](https://blog.dropbox.com/2014/11/dropbox-microsoft-office-partnership/). This partnership is a defensive strategy against Google. Your enemy's enemy is your friend and all that. So, why are Dropbox and Microsoft working together to combat Google? 
 
 ## Microsoft vs. Google

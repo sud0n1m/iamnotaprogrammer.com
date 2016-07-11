@@ -1,9 +1,10 @@
 ---
-title: "Why we don't offer discounts"
-description: "Non-profit and accelerator discounts aren't fair for everyone else"
-published: true
+title: Why we don't offer discounts
+date: 2014-09-09 00:00:00 Z
+description: Non-profit and accelerator discounts aren't fair for everyone else
 layout: post
 ---
+
 A lot of companies offer some kind of discount for non-profits. A lot of companies also offer discounts to participants of accelerator programs. 
 
 In the early days we experimented with discounts tied to some affiliation you might have. We tried handing out cards with a discount code on them at a conference (didn't work). We tried offering accelerators discounts (got a few customers). We tried doing promos or offering discounts in webinars (meh). 

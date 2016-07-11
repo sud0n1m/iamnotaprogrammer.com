@@ -1,7 +1,8 @@
 ---
-title: "Startup founders: What do you do to unwind?"
-description: "I asked the internet what startup founders do to unwind. Here's what people said and what I do too"
-published: true
+title: 'Startup founders: What do you do to unwind?'
+date: 2014-01-23 00:00:00 Z
+description: I asked the internet what startup founders do to unwind. Here's what
+  people said and what I do too
 layout: post
 ---
 

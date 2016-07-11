@@ -1,9 +1,10 @@
 ---
-title: "The Helicopter from Manhattan to JFK"
-description: "I attempt to take a helicopter from Manhattan to JFK"
-published: true
+title: The Helicopter from Manhattan to JFK
+date: 2015-04-13 00:00:00 Z
+description: I attempt to take a helicopter from Manhattan to JFK
 layout: post
 ---
+
 _6 minutes from Downtown Manhattan to JFK_. That's the promise of helicopter travel. You bypass the traffic crossing manhattan. You bypass the traffic through Brooklyn and Queens and land right at JFK - a short hop from the terminal.
 
 When I saw Gotham Air pop on to the scene a few months ago, I was excited to try it out.  At $215 a trip, Helicopter is 86 times more expensive than the $2.50 subway ride to JFK. However, if you take a cab, it is $52 + tip ($10) and tolls ($8) or around $70, or 3x what a cab would cost. _I'm just considering 1 person traveling to JFK. The cost per person in a cab goes down if you have more people_.

@@ -1,9 +1,10 @@
 ---
-title: "Monthly Company Progress Updates"
-description: "Even if you never raise money, send updates"
-published: true
+title: Monthly Company Progress Updates
+date: 2014-09-02 00:00:00 Z
+description: Even if you never raise money, send updates
 layout: post
 ---
+
 Before this morning, the last company progress update we sent out was December 31st, 2013 ([also published on the Customer.io blog](http://customer.io/blog/Revenue-growth-20x-in-2013.html)). Over the past couple of years, I've built a list of about 120 people who are investors, other tech company founders and some close friends.
 
 Earlier this year since we were growing healthily and we weren't planning to raise any more money for the business, I stopped sending out these updates. 

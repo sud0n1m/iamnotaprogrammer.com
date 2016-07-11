@@ -1,7 +1,9 @@
 ---
+title: I'm starting a company
+date: 2012-02-21 00:00:00 Z
 layout: post
-title: "I'm starting a company"
 ---
+
 Yes, it's a tech company, and it's a little nerdy. We're not trying to
 be the next facebook, but we are trying to solve a problem that almost
 all websites (and businesses) have:

@@ -1,9 +1,11 @@
 ---
-title: "Wearing a uniform"
-description: "Does wearing the same thing every day free up energy to focus on what matters?"
-published: true
+title: Wearing a uniform
+date: 2014-08-27 00:00:00 Z
+description: Does wearing the same thing every day free up energy to focus on what
+  matters?
 layout: post
 ---
+
 Steve Jobs is one of the best known people for wearing the same thing every day. He would present at Apple's big keynote events and work every day in his iconic black turtleneck, jeans and New Balance sneakers. 
 
 ![Steve Jobs](http://fast.customer.io/s/Steve-Jobs.jpg)

@@ -1,6 +1,7 @@
 ---
+title: Complexity is the enemy
+date: 2011-09-11 00:00:00 Z
 layout: post
-title: "Complexity is the enemy"
 ---
 
 > Write programs that do one thing and do it well.<br/>

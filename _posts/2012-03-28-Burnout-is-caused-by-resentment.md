@@ -1,7 +1,9 @@
 ---
+title: Burnout is caused by resentment
+date: 2012-03-28 00:00:00 Z
 layout: post
-title: "Burnout is caused by resentment"
 ---
+
 Marissa Mayer from Google spoke at the 92nd St. Y last night. One thing she touched
 on is employee burnout. 
 

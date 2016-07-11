@@ -1,8 +1,9 @@
 ---
 title: Lessons from 2 months of remote working
-published: true
+date: 2013-11-24 00:00:00 Z
 layout: post
 ---
+
 When you run your own company, you make the rules. You decide how you spend your money. You decide the structure of your company and where and when you do work.
 
 ![Work from anywhere](/images/work-from-anywhere.jpg)

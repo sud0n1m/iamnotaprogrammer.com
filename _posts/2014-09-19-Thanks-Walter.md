@@ -1,9 +1,10 @@
 ---
-title: "Thanks Walter"
-description: "A special shout out to one of my favorite people"
-published: true
+title: Thanks Walter
+date: 2014-09-19 00:00:00 Z
+description: A special shout out to one of my favorite people
 layout: post
 ---
+
 Hey Walter,
 
 I was in Monhegan, Maine a few weeks ago for a friend's wedding and decided to read (and finish) one of the books you gave me.

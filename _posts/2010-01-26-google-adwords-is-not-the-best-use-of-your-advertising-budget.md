@@ -1,8 +1,6 @@
 ---
-layout: post
-title: "Google Adwords is not the best use of your advertising budget"
-guid: http://iamnotaprogrammer.com/?p=46
-postid: 46
+title: Google Adwords is not the best use of your advertising budget
+date: 2010-01-26 00:00:00 Z
 categories:
 - email-marketing
 - engagement
@@ -12,7 +10,11 @@ categories:
 - twitter
 - word-of-mouth
 - zappos
+layout: post
+guid: http://iamnotaprogrammer.com/?p=46
+postid: 46
 ---
+
 In my <a href="http://iamnotaprogrammer.com/2010/01/hello-world-2/">first post</a>, I mentioned I was helping a friend set up an online store. Well, she doesn't mind if I blog about our progress. Right now the store is at <a href="http://mimiandhy.myshopify.com" target="_blank">mimiandhy.myshopify.com</a>, but we'll be replacing her current site at <a href="http://mimiandhy.com" target="_blank">mimiandhy.com</a> soon
 
 We set up Google Adwords to drive traffic to the store with our first focus on a designer perfume brand. Her margins were enough on the product so that we could spend some advertising dollars and provide a discount to customers. As long as we made a few sales, we'd be net positive.

@@ -1,6 +1,6 @@
 ---
 title: Forgetting lappy 486
-published: true
+date: 2012-05-06 00:00:00 Z
 layout: post
 ---
 

@@ -1,9 +1,11 @@
 ---
-title: "What is Soylent's 'job to be done'?"
-description: "Does wearing the same thing every day free up energy to focus on what matters?"
-published: true
+title: What is Soylent's 'job to be done'?
+date: 2014-08-28 00:00:00 Z
+description: Does wearing the same thing every day free up energy to focus on what
+  matters?
 layout: post
 ---
+
 Clayton Christensen a Harvard professor is well known for his ideas around the "job to be done" -- what we hire products to do for us. 
 
 One of his more famous examples which he talks about in the video below is "The Milkshake Experiment". 

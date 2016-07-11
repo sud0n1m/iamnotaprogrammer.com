@@ -1,6 +1,6 @@
 ---
 title: Techstars demo day
-published: true
+date: 2012-05-03 00:00:00 Z
 layout: post
 ---
 

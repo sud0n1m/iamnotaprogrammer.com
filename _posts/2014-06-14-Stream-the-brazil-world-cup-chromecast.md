@@ -1,9 +1,11 @@
 ---
-title: "Stream the World Cup on your TV if you don't have cable"
-description: "How to use a VPN + Chromecast to get the World Cup on your TV even if you don't have cable"
-published: true
+title: Stream the World Cup on your TV if you don't have cable
+date: 2014-06-14 00:00:00 Z
+description: How to use a VPN + Chromecast to get the World Cup on your TV even if
+  you don't have cable
 layout: post
 ---
+
 It's the World Cup! ESPN, the broadcaster with the rights in the US has a streaming service. However, try and access the stream and you'll be prompted to sign in to your cable subscription. Why doesn't ESPN sell direct access to their streaming service? Complicated contracts and deals. Hopefully that will change over time. 
 
 During the last summer olympics, I had good luck [streaming the olympics](http://iamnotaprogrammer.com/Watch-olympics-streaming-free.html) TV from the UK using a VPN service. What's the best way to get the World Cup on the TV in your living room if you don't have a cable subscription?

@@ -1,8 +1,9 @@
 ---
 title: The sooner you ship, the sooner you grow
-published: true
+date: 2013-08-31 00:00:00 Z
 layout: post
 ---
+
 The magic of recurring revenue software businesses is that your monthly recurring revenue will increase over time. 
 
 Yes, there are things like churn to worry about. And at some point you may reach the [Plateau of Doom](http://unicornfree.com/2013/help-my-saas-isnt-growing), but the basic principle is this:

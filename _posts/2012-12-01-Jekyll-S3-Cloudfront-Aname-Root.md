@@ -1,7 +1,9 @@
 ---
+title: Jekyll on your root domain on CloudFront CDN
+date: 2012-12-01 00:00:00 Z
 layout: post
-title: "Jekyll on your root domain on CloudFront CDN"
 ---
+
 Maybe like me, you read about the [Obama campaign's $250 million fundraising platform](http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/) and wanted the same high-performance for your own site?
 
 I've used Jekyll for a while, but there was always one thing that prevented me from using Amazon S3 / CloudFront to host it.

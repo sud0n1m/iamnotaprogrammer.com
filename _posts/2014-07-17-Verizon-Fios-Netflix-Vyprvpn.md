@@ -1,9 +1,10 @@
 ---
-title: "Verizon made an enemy tonight"
-description: "Why netflix is slow on verizon fios and how to fix it by using a VPN"
-published: true
+title: Verizon made an enemy tonight
+date: 2014-07-17 00:00:00 Z
+description: Why netflix is slow on verizon fios and how to fix it by using a VPN
 layout: post
 ---
+
 On a flight back to New York I read Level 3's assessment of the latest round of the [Netflix vs Internet Provider debacle](http://blog.level3.com/global-connectivity/verizons-accidental-mea-culpa/).
 
 The summarized version is that basically Netflix is slow because Verizon refuses to add capacity to peer with Level 3. Fixing the situation would cost Verizon on the order of a few thousand (that's right thousand) dollars. Level 3 is even willing to foot the bill. But Verizon refuses. 

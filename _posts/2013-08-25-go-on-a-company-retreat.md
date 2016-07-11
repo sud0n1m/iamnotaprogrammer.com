@@ -1,8 +1,9 @@
 ---
-title: Take your company on a retreat 
-published: true
+title: Take your company on a retreat
+date: 2013-08-25 00:00:00 Z
 layout: post
 ---
+
 ![Image](https://picturelife.com/v/1000/sHsTMRkFvpyLGLV?ua=1377430797)
 
 It's easy to get bogged down in regular routine. Your team wakes up and deals with the crises of the day. 

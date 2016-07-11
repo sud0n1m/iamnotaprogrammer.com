@@ -1,9 +1,11 @@
 ---
-title: "Who owns your data?"
-description: "I examine Apple vs. Google and look at what the implications of going with one company are"
-published: true
+title: Who owns your data?
+date: 2014-01-03 00:00:00 Z
+description: I examine Apple vs. Google and look at what the implications of going
+  with one company are
 layout: post
 ---
+
 That's the question I keep coming back to in the decisions I make, both personally and for Customer.io.
 
 Data ownership is the crux of the decision to go with Apple or Google. iOS or Android. Gmail or ... something else.

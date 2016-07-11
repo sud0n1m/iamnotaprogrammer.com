@@ -1,9 +1,10 @@
 ---
-title: "Just go early"
-description: "Going early solves most frustrations"
-published: true
+title: Just go early
+date: 2014-09-01 00:00:00 Z
+description: Going early solves most frustrations
 layout: post
 ---
+
 This morning we were out the door just before 9:00 am to go for a hike. We drove the 30 minutes (not 40 since there was no traffic) to Multnomah Falls. We got there and parked in the main parking lot, and went on a wonderful 5 mile hike. 
 
 ![Scenic view of Columbia river gorge](http://fast.customer.io/s/IMG_1914.jpg)

@@ -1,9 +1,10 @@
 ---
-title: "Opting out of the razorblade industrial complex"
-description: "An introduction to shaving with a double edged safety razor"
-published: true
+title: Opting out of the razorblade industrial complex
+date: 2014-08-30 00:00:00 Z
+description: An introduction to shaving with a double edged safety razor
 layout: post
 ---
+
 Around the time the Mach 3 came out, I started ignoring advancements in razor technology. The latest thing from Gillette looks like Dyson vacuum for your face. There's a big roller ball in case your wrist is unable to rotate, and there's even a battery inside that presumably causes it to vibrate because... why not?
 
 Buying replacement blades for an aging Mach 3 was the path I chose to take as generation and generation of new razor would come out, refusing to needlessly upgrade to the latest and greatest. 

@@ -1,9 +1,10 @@
 ---
-title: "Mistakes: Too many irons in the fire"
-description: "Lessons learned from trying to expand our product"
-published: true
+title: 'Mistakes: Too many irons in the fire'
+date: 2014-09-08 00:00:00 Z
+description: Lessons learned from trying to expand our product
 layout: post
 ---
+
 One of the mistakes we have made in pursuit of growth is expanding our product beyond what we could support.
 
 Last summer through much encouragement from investors and demand from prospective customers, we decided to build integrations with an ecommerce platform and with a payments platform. 

@@ -1,9 +1,10 @@
 ---
-title: "Your world is larger than your hard drive"
-description: "How the internet is reducing our storage needs"
-published: true
+title: Your world is larger than your hard drive
+date: 2014-11-26 00:00:00 Z
+description: How the internet is reducing our storage needs
 layout: post
 ---
+
 The average home when Windows XP came out had physical photo albums, books, storage racks for DVDs and CDs, video game boxes. People cherished these physical objects. Then we realized it was the content more than the medium that was valuable.
 
 Many of us have stopped producing physical memories. We are in the process of digitizing all of these things and throwing away or packing in to boxes their physical forms.

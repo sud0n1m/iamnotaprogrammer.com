@@ -1,8 +1,9 @@
 ---
 title: Don't give away your product for free...
-published: true
+date: 2012-07-15 00:00:00 Z
 layout: post
 ---
+
 **…unless you plan to keep it free forever.**
 
 [The Cost of Free Doughnuts](http://www.npr.org/blogs/money/2012/07/13/156737801/the-cost-of-free-doughnuts-70-years-of-regret), a story on NPR shows what happens when you make something paid that was once free. During WWII, the Red Cross, which used to give away free coffee and doughnuts started charging servicemen for doughnuts at the behest of the US Government. 

@@ -1,8 +1,9 @@
 ---
 title: I'm an American and I want to watch the Olympics. What do I do?
-published: true
+date: 2012-07-28 00:00:00 Z
 layout: post
 ---
+
 If you're like me, you woke up this morning and realized the Olympic Games are on and it might be incredible to watch the world's best athletes compete for medals and national honor.
 
 ## Flip on the tv

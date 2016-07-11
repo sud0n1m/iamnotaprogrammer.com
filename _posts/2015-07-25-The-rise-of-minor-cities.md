@@ -1,9 +1,11 @@
 ---
-title: "The rise of the minor city"
-description: "The future of life in the United States is minor cities with just the amenities you want"
-published: true
+title: The rise of the minor city
+date: 2015-07-25 00:00:00 Z
+description: The future of life in the United States is minor cities with just the
+  amenities you want
 layout: post
 ---
+
 There's no doubt that there's an ideological shift away from suburbia back towards city living. Cities afford us many nice things - or amenities.
 
 [Here's Steven Levitt, co-author of the book Freakonomics:](http://freakonomics.com/2013/10/03/how-to-think-about-money-choose-your-hometown-and-buy-an-electric-toothbrush-a-new-freakonomics-radio-podcast-full-transcript/)

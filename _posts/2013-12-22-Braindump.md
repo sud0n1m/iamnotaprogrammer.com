@@ -1,8 +1,9 @@
 ---
-title: "What to do when your brain gets too full"
-published: true
+title: What to do when your brain gets too full
+date: 2013-12-22 00:00:00 Z
 layout: post
 ---
+
 I wanted to share a technique with you that has helped me tremendously. Once every few months do a brain dump. 
 
 (*Is this from another task management system?*)

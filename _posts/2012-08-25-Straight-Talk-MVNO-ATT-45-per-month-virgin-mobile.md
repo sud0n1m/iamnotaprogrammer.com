@@ -1,6 +1,7 @@
 ---
+title: Cut your iPhone bill from $107 to $45
+date: 2012-08-25 00:00:00 Z
 layout: post
-title: "Cut your iPhone bill from $107 to $45"
 ---
 
 How would you like to cut your iPhone cell phone bill by over half? Mine went from $107.11 in July to $45. 

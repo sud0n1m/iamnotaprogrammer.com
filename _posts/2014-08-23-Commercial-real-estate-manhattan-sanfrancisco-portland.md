@@ -1,7 +1,7 @@
 ---
-title: "Renting an office in Manhattan vs San Francisco vs Portland"
-description: "Why you might want to look for another city to grow your business"
-published: true
+title: Renting an office in Manhattan vs San Francisco vs Portland
+date: 2014-08-23 00:00:00 Z
+description: Why you might want to look for another city to grow your business
 layout: post
 ---
 

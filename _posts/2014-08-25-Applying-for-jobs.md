@@ -1,9 +1,10 @@
 ---
-title: "Dear Hiring Manager"
-description: "How to save everyone a bit of time when you're applying for a job"
-published: true
+title: Dear Hiring Manager
+date: 2014-08-25 00:00:00 Z
+description: How to save everyone a bit of time when you're applying for a job
 layout: post
 ---
+
 Have you heard about the brown M&Ms clause in Van Halen's contract rider with concert promoters? The brown M&Ms were inserted in to the middle of the contract as a canary in the coal mine. If they walked backstage and saw brown M&Ms, then they would double check everything else for safety issues. Check out the whole video for their explanation:
 
 <iframe src="//player.vimeo.com/video/36615187" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/36615187">Brown M&Ms</a> from <a href="http://vimeo.com/vanhalen">Van Halen</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

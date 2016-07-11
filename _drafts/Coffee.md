@@ -1,9 +1,10 @@
 ---
-title: "Brewing Coffee with a Hario V60"
-description: ""
-published: true
+title: Brewing Coffee with a Hario V60
+date: 2016-07-11 17:18:30.134000000 Z
+description: ''
 layout: post
 ---
+
 A lot of people have a morning coffee ritual. Mine starts after a walk to the office. It's probably drizzly in Portland on the walk. 
 
 Unlock the door. Flick the lights on. 

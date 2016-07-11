@@ -1,6 +1,8 @@
 ---
+title: How to use Gmail to destroy your relationship with your investors, customers,
+  service providers, and employees
+date: 2012-10-04 00:00:00 Z
 layout: post
-title: "How to use Gmail to destroy your relationship with your investors, customers, service providers, and employees"
 ---
 
 To be more efficient, I started forwarding my work email running on Google Apps to my personal email at Gmail

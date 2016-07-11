@@ -1,9 +1,10 @@
 ---
-title: "Ikea standing desk for $489"
-description: "The motorized sit-stand market starts to get competetive"
-published: true
+title: Ikea standing desk for $489
+date: 2014-10-05 00:00:00 Z
+description: The motorized sit-stand market starts to get competetive
 layout: post
 ---
+
 Ikea quietly started stocking motorized sit/stand desks in their North American stores in late September. They're getting rid of the "Galant" series (found in offices everywhere) and replacing it with the "Bekant".
 
 Most motorized standing desks sold online cost $800 - $1200 to get to your door. I expect we'll see prices decrease quite dramatically as more people find out about these desks. 

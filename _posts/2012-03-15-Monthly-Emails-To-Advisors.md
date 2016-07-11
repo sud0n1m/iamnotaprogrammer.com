@@ -1,7 +1,9 @@
 ---
+title: Progress, Plans, and Problems
+date: 2012-03-15 00:00:00 Z
 layout: post
-title: "Progress, Plans, and Problems"
 ---
+
 In November, we got some great feedback from people who helped us
 recognize a great pivot to our idea for [Customer.io](http://customer.io). By February, I had failed to send an update to those people from whom I was so grateful to receive advice. As time went on, it was harder for me to frame the update to each of them. That's terrible. But I have a solution!
 
